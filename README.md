@@ -18,4 +18,4 @@ To assign them to a project so they can learn about everything that is required 
 Module | Topic
 ----- | ----
 00 | [Welcome to Magmalabs!](https://github.com/magma-labs/MagmaHackers/tree/master/module-00)
-01 | [Fundamentals on programing web layouts](https://github.com/magma-labs/MagmaHackers/blob/master/module-01)
+01 | [Fundamentals on web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01)

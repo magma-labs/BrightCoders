@@ -1,4 +1,4 @@
- An introduction to Agile
+Welcome to MagmaLabs!
 
 ## Day 1
 

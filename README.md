@@ -19,5 +19,3 @@ Module | Topic
 ----- | ----
 00 | Welcome to Magmalabs!
 01 | [Fundamentals on programing web layouts](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/README.md)
-02 | An introduction to Frontend programming
-

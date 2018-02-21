@@ -17,6 +17,6 @@ To assign them to a project so they can learn about everything that is required 
 
 Module | Topic
 ----- | ----
-01 | [Fundamentals on programing web layouts]()
+01 | [Fundamentals on programing web layouts](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/README.md)
 02 | An introduction to Frontend programming
 

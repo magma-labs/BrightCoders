@@ -1,4 +1,6 @@
- An introduction to Agile
+# WEEEK 01: The product development workflow 
+ 
+ During this week you will be introduced to the product development workflow and will start writing your first user stories.
 
 ## Day 1
 

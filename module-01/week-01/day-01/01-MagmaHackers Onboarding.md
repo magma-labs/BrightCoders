@@ -1,4 +1,4 @@
-# MagmaHackers Onbboarding
+# MagmaHackers Onboarding
 
 You will receive a welcome to the MagmaHackers program and an overview of its content. The topics that will be covered during this session are:
 

@@ -15,7 +15,7 @@ To assign them to a project so they can learn about everything that is required 
 
 ## Content
 
-Project | Topic
+Module | Topic
 ----- | ----
 01 | [Fundamentals on programing web layouts]()
 02 | An introduction to Frontend programming

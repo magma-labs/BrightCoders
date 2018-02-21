@@ -8,5 +8,5 @@ On this module you will learn the fundamentals on programic web layouts this inc
 
 Week | Topic
 ----- | ----
-01 | [The product development workflow](https://github.com/magma-labs/MagmaHackers/tree/master/P1-Fundamentals%20on%20Web%20Layout/Week-01)
+01 | [The product development workflow](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01)
 02 | An introduction to Frontend programming

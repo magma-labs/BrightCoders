@@ -1,4 +1,4 @@
-# WEEEK 01: The product development workflow 
+# WEEK 01: The product development workflow 
  
  During this week you will be introduced to the product development workflow and will start writing your first user stories.
 

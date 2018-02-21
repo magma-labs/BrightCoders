@@ -13,10 +13,10 @@ To train them on the technologies, tools, and methodologies required for fitting
 To give them exposure to real-world working scenarios, so they can easily incorporate to any software company.
 To assign them to a project so they can learn about everything that is required for developing it from the beginning to the end.
 
-## Program
+## Content
 
-Week | Topic
+Project | Topic
 ----- | ----
-01 | [An introduction to Agile](https://github.com/magma-labs/MagmaHackers/tree/master/week-01)
+01 | [Fundamentals on programing web layouts]()
 02 | An introduction to Frontend programming
 

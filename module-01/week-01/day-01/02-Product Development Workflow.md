@@ -16,7 +16,7 @@ During this session you will be introduced to the product Development Workflow. 
 * Estimation time scale
 * Demo
 
-## Assignment 01-01-01-02
+## :pencil2: Assignment 01-01-01-02
 
 You will be organized as teams and be assigned a mentor. Each team will select a theme to work with and write the requirements (user stories) for developing that theme.
 

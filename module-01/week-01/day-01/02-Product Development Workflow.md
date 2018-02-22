@@ -20,7 +20,7 @@ During this session you will be introduced to the product Development Workflow. 
 
 You will be organized as teams and be assigned a mentor. Each team will select a theme to work with and write the requirements (user stories) for developing that theme.
 
-### Instructions
+### :clipboard: Instructions
 
 Select three screens from your theme and for each screen write three user stories of some aspects of components, overall you will write 9 user stories. Make sure to write your user story using the following formula:
 
@@ -28,7 +28,7 @@ Select three screens from your theme and for each screen write three user storie
   
 User stories will be published on the corresponding github board.
   
-### Example
+### :bulb: Example
   
 The following is an example of how user stories should be written (you should also include the corresponding images):
   
@@ -58,11 +58,13 @@ Get the customer's attention
 **Story Points:** 
 2
 
-## Themes
+## :earth_americas: Resources
 
-[Select your theme](https://www.dropbox.com/sh/l4ltmmel0h0tlam/AADOkbZkFLCpuvtEPnYLfBNXa?dl=0)
+* [:pushpin: Product Development: Workflow (slides)](https://drive.google.com/open?id=191seiKBAXF8-bR6wXtoZZjc6KntCZb8d)
+* [Select your theme](https://www.dropbox.com/sh/l4ltmmel0h0tlam/AADOkbZkFLCpuvtEPnYLfBNXa?dl=0)
 
-## Recommended readings
+## :pill: Recommended links
 
-
-
+* [Advantages of the “As a user, I want” user story template.] (https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
+* [Planning Poker](https://www.planningpoker.com/)
+* [Scrum 10 minutes](https://www.youtube.com/watch?time_continue=6&v=YFkwhTkrVx8)

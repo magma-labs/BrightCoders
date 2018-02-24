@@ -1,8 +1,9 @@
 On this module you will learn the fundamentals on programic web layouts this includes:
 
 * The product development workflow
-* Web layout programming using HTML and CSS
 * Version control using Git
+* Web layout programming using HTML and CSS
+* Mobile first responsive web programming
 
 ## Content
 

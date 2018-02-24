@@ -1,38 +1,19 @@
-# WEEK 01: The product development workflow 
+# WEEK 02: An introduction to Frontend programming  (Sprint 1)
  
- During this week you will be introduced to the product development workflow and will start writing your first user stories.
+ During this week you will plan your first sprint, start developing and participating daily on stand up meetings.
+ By the end of this sprint each MHacker should complete at least 8 points from their backlog workload.
 
 ## Day 1
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class |Guided | 1 hr | [Magma Hackers Onboarding](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-01/01-MagmaHackers%20Onboarding.md) | CAO
-02 | Class | Guided | 1 hr | [Product Development Workflow](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-01/02-Product%20Development%20Workflow.md) | Tech PM
-03 | Practical | Self-paced | 1 hr | [Setting-up and getting around the Middleman Framework](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-01/03-Setup%20and%20getting%20around%20the%20Middleman%20Framework.md)| MHackers
-04 | Practical | Self-paced | 5 hr | [Agile: Writing up user stories](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-01/04-Agile:%20writing%20up%20user%20stories.md) | MHackers
+01 | Class |Guided | 1 hr | [Sprint planner] | Tech PM
+02 | Class | Guided | 2.5 hr | [An intro to Git] | Mentor
+03 | Practical | Self-paced | 4.5 hr | [Web layout programming]| MHackers
 
-## Day 2
-
-Num | Type | Format | Duration | Description | Who
--- | -- | -- | -- | -- | --
-01 | Practical | Self-paced | 8 hr | [Agile: Writing up user stories](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-01/04-Agile:%20writing%20up%20user%20stories.md) | MHackers
-
-## Day 3
+## Day 2 - 5
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Practical | Self-paced | 3 hr | [Agile: Writing up user stories](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-01/04-Agile:%20writing%20up%20user%20stories.md) | MHackers
-02 | Class | Guided | 1 hr | [Review & feedback on Writing up user stories](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-03/02-Review%20%26%20feedback%20on%20Writing%20up%20user%20stories.md) | Tech PM
-03 | Practical | Self-paced | 4 hr | [Agile: Writing up user stories -Part 2-](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-03/03-Agile:%20Writing%20up%20user%20stories%20(Part%202)) | MHackers
-
-## Day 4
-
-Num | Type | Format | Duration | Description | Who
--- | -- | -- | -- | -- | --
-01 | Practical | Self-paced | 8 hr | [Agile: Writing up user stories -Part 2-](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-03/03-Agile:%20Writing%20up%20user%20stories%20(Part%202)) | MHackers
-
-## Day 5
-
-Num | Type | Format | Duration | Description | Who
--- | -- | -- | -- | -- | --
-01 | Practical | Self-paced | 8 hr | [Agile: Writing up user stories -Part 2-](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-03/03-Agile:%20Writing%20up%20user%20stories%20(Part%202)) | MHackers
+01 | Class |Guided | 0.25 hr | [Stand up meeting] | Tech PM
+03 | Practical | Self-paced | 7.35 hr | [Web layout programming]| MHackers

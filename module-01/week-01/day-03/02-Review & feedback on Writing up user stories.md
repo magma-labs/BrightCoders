@@ -8,7 +8,7 @@ You will continue writting user stories for your theme applying the feedback you
 
 ### :clipboard: Instructions
 
-Write all the necessary user stories. Make sure to write your user story using the following formula:
+Write all the necessary user stories, on your stories you must consider both desktop and mobile devices. Make sure to write your user story using the following formula:
 
 "As a <type of user: who is this story for>, I would like <some goal: what they want to do> so that <some reason: why they want to do it>." , risks, requirements and the acceptance criteria with the required steps for passing quality assurance.
   

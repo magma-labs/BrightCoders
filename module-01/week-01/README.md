@@ -22,7 +22,7 @@ Num | Type | Format | Duration | Description | Who
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Practical | Self-paced | 3 hr | [Agile: Writing up user stories](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-01/day-01/04-Agile:%20writing%20up%20user%20stories.md) | MHackers
-02 | Class | Guided | 1 hr | Review & feedback on Writing up user stories | Tech PM
+02 | Class | Guided | 1 hr | [Review & feedback on Writing up user stories](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01/day-03) | Tech PM
 03 | Practical | Self-paced | 4 hr | Agile: Writing up user stories | MHackers
 
 ## Day 4

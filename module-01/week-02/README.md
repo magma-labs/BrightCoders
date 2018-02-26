@@ -2,6 +2,11 @@
  
  During this week you will plan your first sprint, start developing and participating daily on stand up meetings.
  By the end of this sprint each MHacker should complete at least 8 points from their backlog workload.
+ 
+ ## Learning outcomes
+ * Understanding of sprint planning and stand up meetings
+ * Understanding of the git workflow
+ * Building resoponsive web pages aplying the mobile-first approach
 
 ## Day 1
 

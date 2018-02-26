@@ -7,7 +7,7 @@
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class |Guided | 1 hr | [Sprint planning meeting.md](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/Sprint%20planning%20meeting.md) | Tech PM
+01 | Class |Guided | 1 hr | [Sprint planning meeting.md](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/Sprint%20planning%20meeting) | Tech PM
 02 | Class | Guided | 2.5 hr | [An intro to Git] | Mentor
 03 | Practical | Self-paced | 4.5 hr | [Web layout programming]| MHackers
 

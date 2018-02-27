@@ -21,7 +21,7 @@ Following the SCRUM methodology you will start taking tickets from your Backlog 
 * [MarkSheet: A free HTML & CSS Tutorial](https://marksheet.io/)
 * [A free visual guide to CSS](https://cssreference.io/)
 * [A free guide to HTML](https://htmlreference.io/)
-* [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox)`
+* [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 * [Dash API] (https://kapeli.com/dash)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox Brid] http://flexboxgrid.com/) 

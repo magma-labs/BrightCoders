@@ -30,4 +30,4 @@ Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Class | Guided | 0.25 hr | [Stand up meeting] | Tech PM
 02 | Practical | Self-paced | 7.35 hr | [Web layout programming]| MHackers
-03 | Class | Guided | 1 hr | 
+03 | Class | Guided | 1 hr |  [Building resoponsive web pages aplying the mobile-first approach] | Mentor

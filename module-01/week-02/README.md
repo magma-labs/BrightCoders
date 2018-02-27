@@ -20,7 +20,7 @@ Num | Type | Format | Duration | Description | Who
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class |Guided | 0.25 hr | [Stand up meeting] | Tech PM
+01 | Class |Guided | 0.25 hr | [Stand up meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | Tech PM
 02 | Practical | Self-paced | 7.35 hr | [Web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/03-Web%20layout%20programming.md)| MHackers
 
 
@@ -28,6 +28,6 @@ Num | Type | Format | Duration | Description | Who
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class | Guided | 0.25 hr | [Stand up meeting] | Tech PM
+01 | Class | Guided | 0.25 hr | [Stand up meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | Tech PM
 02 | Practical | Self-paced | 6.35 hr | [Web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/03-Web%20layout%20programming.md)| MHackers
 03 | Class | Guided | 1 hr |  [Building resoponsive web pages aplying the mobile-first approach] | Mentor

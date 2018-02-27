@@ -68,3 +68,4 @@ Get the customer's attention
 * [Advantages of the “As a user, I want” user story template.](https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
 * [Planning Poker](https://www.planningpoker.com/)
 * [Scrum 10 minutes](https://www.youtube.com/watch?time_continue=6&v=YFkwhTkrVx8)
+* [Page Structure and Site Design](http://webstyleguide.com/wsg3/6-page-structure/3-site-design.html)

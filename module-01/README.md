@@ -10,5 +10,5 @@ On this module you will learn the fundamentals on programic web layouts this inc
 Week | Topic
 ----- | ----
 01 | [The product development workflow](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01)
-02 | [An introduction to Frontend programming - Part 01](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/README.md)
-03 | [An introduction to Frontend programming - Part 02](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-03/README.md)
+02 | [An introduction to Frontend programming - Sprint 01](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/README.md)
+03 | [An introduction to Frontend programming - Sprint 02](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-03/README.md)

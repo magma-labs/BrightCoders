@@ -13,7 +13,7 @@
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class |Guided | 1 hr | [Retrospective & Sprint planning meeting]() | Tech PM
+01 | Class |Guided | 1 hr | [Retrospective & Sprint planning meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-03/day-01/01-Retrospective%20meeting.md) | Tech PM
 02 | Practical | Self-paced | 7 hr | [Web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/03-Web%20layout%20programming.md)| MHackers
 
 ## Day 2-5

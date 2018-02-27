@@ -23,3 +23,7 @@ Today:
 
 Blockers:
 - If I have a problem that stops me or if I need something from someone urgently
+
+## Activities
+* (10 minutes) Prepare and publish your Scrum report
+* (15 minutas) Stand up meeting

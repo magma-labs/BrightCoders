@@ -1,6 +1,6 @@
 # Web Layout Programming
 
-You will start working on your sprint tickets and start working on them using HTML and CSS. Yo must publish your code to your git repository.
+You will start working on your sprint tickets using HTML and CSS. Yo must publish your code to your git repository.
 
 Do not forget to keep updated your SCRUM Board (Backlog, To Do, In progress, Blocked, Code Review, Ready for QA, Done)
 
@@ -13,7 +13,6 @@ Following the SCRUM methodology you will start taking tickets from your Backlog 
 Following the SCRUM methodology you will start taking tickets from your Backlog and start working on them.
 * Keep as updated as posible your git repository and SCRUM board
 * Do not forget to ask for help if you get stucked on something for more than 15 minutes. You (Tech PM, mentors, and developers) must work as a team to complete the tasks you planned for this sprint.
-
 
 ## :pill: Recommended links
 * [Flebox Forggy: A game for learning CSS flexbox](http://flexboxfroggy.com/#es)

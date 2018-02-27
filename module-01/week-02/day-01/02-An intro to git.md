@@ -18,6 +18,7 @@ You will put in practice all this commands while working on your project.
 
 The following links contain relevant information that will also help you to understand these topics.
 
-* [Advantages of the “As a user, I want” user story template.](https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
-* [Planning Poker](https://www.planningpoker.com/)
-* [Scrum 10 minutes](https://www.youtube.com/watch?time_continue=6&v=YFkwhTkrVx8)
+* [Git How To: Guided Git Tutorial](https://githowto.com/)
+* [Git - Book](https://git-scm.com/book/en/v2)
+* [How to Write a Commit Message](https://chris.beams.io/posts/git-commit/)
+* [Learn Git Branching](https://learngitbranching.js.org/index.html)

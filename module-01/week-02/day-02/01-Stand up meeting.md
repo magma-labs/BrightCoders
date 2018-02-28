@@ -24,6 +24,18 @@ Today:
 Blockers:
 - If I have a problem that stops me or if I need something from someone urgently
 
+### :bulb: Example
+
+Yesterday:
+- [BR-113] 2.7 Promociones - Acceso al módulo de promociones: En Code Review
+- [BR-114] 2.7 Promociones - Activar / desactivar promociones: Trabajando en la parte del Gateway
+
+Today:
+- [BR-114] 2.7 Promociones - Activar / desactivar promociones: Trabajando la parte del API y terminar el Gateway
+
+Blockers:
+- Existe un step del desactivar promociones cuando se encuentra vencida, me gustaria que me aclararan como pensaron esa parte, Seria el Gateway quien tenria un proceso corriendo que cheque las promociones cada cierto tiempo o seria del lado de la API?
+
 ## Activities
 * (10 minutes) Prepare and publish your Scrum report
 * (15 minutas) Stand up meeting

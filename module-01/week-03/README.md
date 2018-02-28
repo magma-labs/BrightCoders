@@ -6,6 +6,7 @@
  ## Learning outcomes
  * Understanding of sprint planning and stand up meetings
  * :fire: Understanding of retrospective meetings
+ * :fire: Pair programming
  * Understanding of the git workflow
  * Building resoponsive web pages aplying the mobile-first approach
 

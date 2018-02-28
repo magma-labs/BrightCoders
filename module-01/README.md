@@ -4,6 +4,7 @@ On this module you will learn the fundamentals on programic web layouts this inc
 * Version control using Git
 * Web layout programming using HTML and CSS
 * Mobile first responsive web programming
+* The pair programming agile technique
 
 ## Content
 

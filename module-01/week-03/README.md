@@ -5,7 +5,7 @@
  
  ## Learning outcomes
  * Understanding of sprint planning and stand up meetings
- * :fire: Understanding of retrospective meetings
+ * :fire: [Understanding of retrospective meetings](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-03/day-01/01-Retrospective%20meeting.md)
  * :fire: Pair programming
  * Understanding of the git workflow
  * Building resoponsive web pages aplying the mobile-first approach

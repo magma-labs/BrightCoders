@@ -15,7 +15,8 @@ To assign them to a project so they can learn about everything that is required 
 
 ## Content
 
-Module | Topic
------ | ----
-00 | [Welcome to Magmalabs!](https://github.com/magma-labs/MagmaHackers/tree/master/module-00)
-01 | [Fundamentals on web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01)
+Module | Duration | Topic
+----- | ---- | ----
+00 | 1 Day | [Welcome to Magmalabs!](https://github.com/magma-labs/MagmaHackers/tree/master/module-00)
+01 | 3 Weeks | [Fundamentals on web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01)
+02 |  |

@@ -28,3 +28,4 @@ The duration of the customer review meeting varies depending on sprint length. F
 ## :pill: Recommended links
 * [Sprint Review](https://www.mitchlacey.com/intro-to-agile/scrum/sprint-review)
 * [How to give a great Sprint Demo](http://agileforall.com/how-to-give-a-great-sprint-demo/)
+* [Scrum in practice: The sprint demo](https://manifesto.co.uk/scrum-practice-sprint-demo/)

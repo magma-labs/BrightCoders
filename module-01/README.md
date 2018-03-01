@@ -1,4 +1,5 @@
-On this module you will learn the fundamentals on programic web layouts this includes:
+# Frontend Programming
+On this module you will learn the fundamentals on frontend programming this includes:
 
 * The product development workflow
 * Version control using Git

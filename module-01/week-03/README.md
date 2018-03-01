@@ -6,7 +6,8 @@
  ## Learning outcomes
  * Understanding of sprint planning and stand up meetings
  * :fire: [Understanding of retrospective meetings](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-03/day-01/01-Retrospective%20meeting.md)
- * :fire: Pair programming
+ * :fire: Deployment of applications (using heroku)
+ * :fire: Demo preparation
  * Understanding of the git workflow
  * Building resoponsive web pages aplying the mobile-first approach
 
@@ -17,9 +18,26 @@ Num | Type | Format | Duration | Description | Who
 01 | Class |Guided | 1 hr | [Retrospective & Sprint planning meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-03/day-01/01-Retrospective%20meeting.md) | Tech PM
 02 | Practical | Self-paced | 7 hr | [Web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/03-Web%20layout%20programming.md)| MHackers
 
-## Day 2-5
+## Day 2,3
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Class |Guided | 0.25 hr | [Stand up meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | Tech PM
 02 | Practical | Self-paced | 7.35 hr | [Web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/03-Web%20layout%20programming.md)| MHackers
+
+## Day 4
+
+Num | Type | Format | Duration | Description | Who
+-- | -- | -- | -- | -- | --
+01 | Class | Guided | 0.25 hr | [Stand up meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | Tech PM
+02 | Practical | Self-paced | 1 hr | [Aplication Deployment] | MHackers
+03 | Practical | Self-paced | 6.35 hr | [Web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/03-Web%20layout%20programming.md)| MHackers
+
+## Day 5
+
+Num | Type | Format | Duration | Description | Who
+-- | -- | -- | -- | -- | --
+01 | Class |Guided | 0.25 hr | [Stand up meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | Tech PM
+02 | Practical | Self-paced | 1 hr | [Demo preparation] | MHackers
+03 | Practical | Self-paced | 6.35 hr | [Web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/03-Web%20layout%20programming.md)| MHackers
+

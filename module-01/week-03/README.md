@@ -30,7 +30,7 @@ Num | Type | Format | Duration | Description | Who
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Class | Guided | 0.25 hr | [Stand up meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | Tech PM
-02 | Practical | Self-paced | 1 hr | [Aplication Deployment] | MHackers
+02 | Practical | Self-paced | 1 hr | [Website Deployment] | MHackers
 03 | Practical | Self-paced | 6.35 hr | [Web layout programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-01/03-Web%20layout%20programming.md)| MHackers
 
 ## Day 5

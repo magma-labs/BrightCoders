@@ -1,13 +1,14 @@
-# Mastering Frontend Programming
+# Building a StoreFront using Shopify
 
-On this module you will become a master on frontend programming:
+On this module you will learn how to build a store front using Shopify
 
 The following topics will be covered:
 
-* Board Grooming
+* Sprint Review
+* Structure of a Shopify theme
 
 ## Content
 
 Week | Topic
 ----- | ----
-01 | [Becoming more agile](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01)
+01 | [Getting Familiar with Shopify](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01)

@@ -11,4 +11,4 @@ The following topics will be covered:
 
 Week | Topic
 ----- | ----
-01 | [Getting Familiar with Shopify](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01)
+01 | [Getting Familiar with Shopify](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-02)

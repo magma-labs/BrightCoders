@@ -6,7 +6,7 @@
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class |Guided | 1 hr | [Sprint Review Meeting] | Tech PM
+01 | Class |Guided | 1 hr | [Sprint Review Meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/sprint-review-meeting.md) | Tech PM
 02 | Practical | Self-paced | 7 hr | [Understanding the structure of a Shopify Theme] | MHackers
 
 ## Day 2

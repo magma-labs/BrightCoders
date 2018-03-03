@@ -1,4 +1,4 @@
-# Web Layout Programming
+# Frontend Programming (HTML & CSS)
 
 You will start working on your sprint tickets using HTML and CSS. Yo must publish your code to your git repository.
 

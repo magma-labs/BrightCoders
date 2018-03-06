@@ -9,6 +9,12 @@
 * [Scrum 10 minutes](https://www.youtube.com/watch?time_continue=6&v=YFkwhTkrVx8)
 * [Page Structure and Site Design](http://webstyleguide.com/wsg3/6-page-structure/3-site-design.html)
 
+# Git
+* [Git How To: Guided Git Tutorial](https://githowto.com/)
+* [Git - Book](https://git-scm.com/book/en/v2)
+* [How to Write a Commit Message](https://chris.beams.io/posts/git-commit/)
+* [Learn Git Branching](https://learngitbranching.js.org/index.html)
+
 # HTML & CSS
 
 * [Flebox Forggy: A game for learning CSS flexbox](http://flexboxfroggy.com/#es)

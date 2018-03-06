@@ -15,3 +15,4 @@ Num | Type | Format | Duration | Description | Who
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Class | Guider | 0.5 hr | [Understanding the structure of a Shopify Theme (Slate)](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/slate.md) | MHackers
+02 | Practical | Self-paced | 5.05 hr | [An introduction to Shopify]() | Mentor

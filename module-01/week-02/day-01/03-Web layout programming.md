@@ -29,3 +29,4 @@ Following the SCRUM methodology you will start taking tickets from your Backlog 
 * [Explore and Master Chrome Dev Tools](http://discover-devtools.codeschool.com/)
 * [Learn CSS Variables in 5 minutes](https://medium.freecodecamp.org/learn-css-variables-in-5-minutes-80cf63b4025d)
 * [The boyscout rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
+* [Unificando estilos de programación con EditorConfig](http://juancrg90.me/unificando-estilos-de-programacion-con-editorconfig-2/)

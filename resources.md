@@ -8,6 +8,9 @@
 * [Planning Poker](https://www.planningpoker.com/)
 * [Scrum 10 minutes](https://www.youtube.com/watch?time_continue=6&v=YFkwhTkrVx8)
 * [Page Structure and Site Design](http://webstyleguide.com/wsg3/6-page-structure/3-site-design.html)
+* [Sprint Review](https://www.mitchlacey.com/intro-to-agile/scrum/sprint-review)
+* [How to give a great Sprint Demo](http://agileforall.com/how-to-give-a-great-sprint-demo/)
+* [Scrum in practice: The sprint demo](https://manifesto.co.uk/scrum-practice-sprint-demo/)
 
 # Git
 * [Git How To: Guided Git Tutorial](https://githowto.com/)
@@ -33,6 +36,26 @@
 * [The boyscout rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 * [Unificando estilos de programación con EditorConfig](http://juancrg90.me/unificando-estilos-de-programacion-con-editorconfig-2/)
 
+# Mobile First
+
+* [A book Apart, Mobile First](https://abookapart.com/products/mobile-first)
+* [How to Write Mobie First CSS](https://zellwk.com/blog/how-to-write-mobile-first-css/)
+* [Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)
+* [Creating a Mobile-First Responsive Web Design](https://www.html5rocks.com/en/mobile/responsivedesign/)
+
+# Deployment
+* [Heroku](https://www.heroku.com/)
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Deploying your first website](https://www.codeschool.com/beginners-guide-to-web-development/deploying-your-first-website)
+* [Publishing your website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+
+# Shopify
+
+* [Introducing Slate: A Shopify Theme Scaffold and Command Line Tool](https://www.shopify.com/partners/blog/introducing-slate-a-shopify-theme-scaffold-and-command-line-tool)
+
 # Ruby
 
 * [The Middleman Framework](https://middlemanapp.com/)
+* [The Beginner’s Guide to Building Shopify Themes with Sections](https://www.shopify.com/partners/blog/the-beginner-s-guide-to-building-shopify-themes-with-sections)
+* [Liquid](http://shopify.github.io/liquid/)
+

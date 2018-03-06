@@ -6,11 +6,12 @@
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class |Guided | 1 hr | [Sprint Review Meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/sprint-review-meeting.md) | Tech PM
-02 | Practical | Self-paced | 7 hr | [Understanding the structure of a Shopify Theme] | MHackers
+01 | Class |Guided | 0.25 hr | [Daily stand up]() | Tech PM
+02 | Class |Guided | 1.30 hr | [Sprint Review Meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/sprint-review-meeting.md) | Tech PM
+03 | Practical | Self-paced | 5.05 hr | [Understanding the structure of a Shopify Theme] | MHackers
 
 ## Day 2
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class | Guider | 0.5 hr | [Resolving questions on the structure of a Shopify Theme] | Mentors
+01 | Class | Guider | 0.5 hr | [Understanding the structure of a Shopify Theme] | MHackers

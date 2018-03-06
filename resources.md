@@ -2,7 +2,7 @@
 
 # Product Development Workflow
 
-* [:pushpin: Product Development: Workflow (slides)](https://drive.google.com/open?id=191seiKBAXF8-bR6wXtoZZjc6KntCZb8d)
+* [Product Development: Workflow (slides)](https://drive.google.com/open?id=191seiKBAXF8-bR6wXtoZZjc6KntCZb8d)
 * [Select your theme](https://www.dropbox.com/sh/l4ltmmel0h0tlam/AADOkbZkFLCpuvtEPnYLfBNXa?dl=0)
 * [Advantages of the “As a user, I want” user story template.](https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
 * [Planning Poker](https://www.planningpoker.com/)

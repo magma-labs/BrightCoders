@@ -1,14 +1,20 @@
-# Understanding the structure of a Shopify Theme (Slate)
+# Understanding the structure of a Shopify Theme
 
-The objective of this activity is to become familiar with the structure of a Shopify theme and for this they will use [Slate](https://www.shopify.com/partners/blog/introducing-slate-a-shopify-theme-scaffold-and-command-line-tool).
+On thi
+ Introducción a Slate (conociendo la estructura de un tema de Shopify), Conceptos básicos: templates, layouts, secciones, bloques, snippets , Introducción a Liquid (sintaxis básica, ciclos, condicionales) (editado). 
+
+The objective of this activity is to become familiar with the structure of a Shopify theme and for this they will use [Slate](https://www.shopify.com/partners/blog/introducing-slate-a-shopify-theme-scaffold-and-command-line-tool). You will also be introduced to basic concepts such as templates, layouts, sections, blocks and snippets. Finally, you will learn about [Luquid](http://shopify.github.io/liquid/): basic sintax, loops and conditionals.
 
 *Slate is a theme scaffold and command line tool for developing Shopify themes. It is designed to assist your development workflow and speed up the process of developing, testing, and deploying themes to Shopify stores.*
 
-*Slate allows you to sync local files with your live shop, deploy to multiple environments at the same time, and organize stylesheets and scripts in a flexible way.* [(Taken from the slate web page)](https://www.shopify.com/partners/blog/introducing-slate-a-shopify-theme-scaffold-and-command-line-tool) 
+*Slate allows you to sync local files with your live shop, deploy to multiple environments at the same time, and organize stylesheets and scripts in a flexible way.* [(Taken from the Slate web page)](https://www.shopify.com/partners/blog/introducing-slate-a-shopify-theme-scaffold-and-command-line-tool) 
 
-You can work on this both individually and as a team, is up to you to you on how to self-organize.
+*Liquid, on the other hand, is an open-source template language created by Shopify and written in Ruby. It is the backbone of Shopify themes and is used to load dynamic content on storefronts.* [(Taken from the Liquid web page)](http://shopify.github.io/liquid/)
+
+You can work on this activituy both individually and as a team, is up to you to you on how to self-organize.
 At the end of the day you all as a team will publish on slack your specific doubts or problems. Depending on the issues reported additional help may be provided.
 
 ## :pill: Recommended links
 
 * [Introducing Slate: A Shopify Theme Scaffold and Command Line Tool](https://www.shopify.com/partners/blog/introducing-slate-a-shopify-theme-scaffold-and-command-line-tool)
+* [Liquid](http://shopify.github.io/liquid/)

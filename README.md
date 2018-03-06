@@ -23,6 +23,6 @@ Module | Duration | Topic
 
 ## Resources
 
-Here you will find a list of relevant resources that will help you during this program.
+[Here](https://github.com/magma-labs/MagmaHackers/blob/master/resources.md) you will find a list of relevant resources that will help you during this program.
 
 

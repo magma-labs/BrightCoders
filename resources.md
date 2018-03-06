@@ -1,6 +1,16 @@
 # Recommended Resources
 
+# Product Development Workflow
+
+* [:pushpin: Product Development: Workflow (slides)](https://drive.google.com/open?id=191seiKBAXF8-bR6wXtoZZjc6KntCZb8d)
+* [Select your theme](https://www.dropbox.com/sh/l4ltmmel0h0tlam/AADOkbZkFLCpuvtEPnYLfBNXa?dl=0)
+* [Advantages of the “As a user, I want” user story template.](https://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
+* [Planning Poker](https://www.planningpoker.com/)
+* [Scrum 10 minutes](https://www.youtube.com/watch?time_continue=6&v=YFkwhTkrVx8)
+* [Page Structure and Site Design](http://webstyleguide.com/wsg3/6-page-structure/3-site-design.html)
+
 # HTML & CSS
+
 * [Flebox Forggy: A game for learning CSS flexbox](http://flexboxfroggy.com/#es)
 * [Flexbox Defense: A game for learning CSS](http://www.flexboxdefense.com/)
 * [MarkSheet: A free HTML & CSS Tutorial](https://marksheet.io/)

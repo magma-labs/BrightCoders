@@ -26,6 +26,8 @@ Module | Duration | Topic
 [Here](https://github.com/magma-labs/MagmaHackers/blob/master/resources.md) you will find a list of relevant resources that will help you during this program.
 
 ## Cohorts
+
 Num | Chohort | MH Sudents
+----- | ---- | ----
 1 | FEB 2018 | 5
 

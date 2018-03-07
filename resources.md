@@ -54,6 +54,8 @@
 * [Introducing Slate: A Shopify Theme Scaffold and Command Line Tool](https://www.shopify.com/partners/blog/introducing-slate-a-shopify-theme-scaffold-and-command-line-tool)
 * [The Beginner’s Guide to Building Shopify Themes with Sections](https://www.shopify.com/partners/blog/the-beginner-s-guide-to-building-shopify-themes-with-sections)
 * [Liquid](http://shopify.github.io/liquid/)
+* [Configuring Them Settings](https://help.shopify.com/themes/development/theme-editor/settings-schema#section)
+* [Liquid: Whitespace Control](https://shopify.github.io/liquid/basics/whitespace/)
 
 # Ruby
 

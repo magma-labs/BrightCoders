@@ -18,3 +18,5 @@ At the end of the day you all as a team will publish on slack your specific doub
 
 * [Introducing Slate: A Shopify Theme Scaffold and Command Line Tool](https://www.shopify.com/partners/blog/introducing-slate-a-shopify-theme-scaffold-and-command-line-tool)
 * [Liquid](http://shopify.github.io/liquid/)
+* [Configuring Them Settings](https://help.shopify.com/themes/development/theme-editor/settings-schema#section)
+* [Liquid: Whitespace Control](https://shopify.github.io/liquid/basics/whitespace/)

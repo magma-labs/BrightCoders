@@ -16,7 +16,7 @@ Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Class |Guided | 10 min| [Stand up meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | Slack
 02 | Practical | Self-paced | 6.50 hr | [Understanding the structure of a Shopify Theme](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/slate.md) | MHackers
-03 | Class | Guided | 1 hr | [An introduction to Shopify]() | Mentor
+03 | Class | Guided | 1 hr | [An introduction to Shopify](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/introduction-to-shopify.md) | Mentor
 
 ## Day 3 and 4
 

@@ -2,7 +2,7 @@
  
 During this week you will be introduced on how to use Shopify to build a frontstore. This week objective is you getting familiar with the structure of a shopify theme, also you will learn about the fundamentals of Liquid.
  
-You will spent a lot of time studying the different materials we are providing. But do not worry, the objective is not making you an expert but only getting familliar and understanding the basics. These activites may include many theoretical concepts, do not worry on memorizing them or if you do not manage to fully understand all of them, as always we wil be providing all assistance you require.
+You will spent a lot of time studying the different materials we are providing. But remmember, the objective is not making you an expert but only getting familliar and understanding the basics. These activites may include many theoretical concepts, do not worry on memorizing them or if you do not manage to fully understand all of them, as always we wil be providing all assistance you require.
  
 On the following weeks you will have plenty of time for practicing everityng you are studying and this will also help you on getting a better understanding.
 

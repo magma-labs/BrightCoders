@@ -25,3 +25,12 @@ Num | Type | Format | Duration | Description | Who
 01 | Class |Guided | 10 min | [Stand up meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | Slack
 02 | Practical | Self-paced | 7:50 hr | [Fundamentas of Liquid and Shopify Theme Development](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/liquid-shopify-dev.md) | MHackers
 
+## Day 5
+
+Num | Type | Format | Duration | Description | Who
+-- | -- | -- | -- | -- | --
+01 | Practical | Self-paced | 6:00 hr | [Fundamentas of Liquid and Shopify Theme Development](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/liquid-shopify-dev.md) | MHackers
+02 | Practical | Self-paced | [Getting ready for next week project] | MHackers
+03 | Class |Guided | 1 hr | [Sprint Retrospective  Meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02/day-02/01-Stand%20up%20meeting.md) | CAO
+
+

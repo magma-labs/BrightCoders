@@ -1,4 +1,4 @@
-# Building a StoreFront using Shopify
+# Building a Storefront using Shopify
 
 On this module you will learn how to build a store front using Shopify
 

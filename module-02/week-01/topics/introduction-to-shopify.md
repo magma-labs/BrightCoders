@@ -1,4 +1,4 @@
-# An Introduction to shopify
+# :mortar_board: An Introduction to shopify
 
 During this workshop you will be introduced by one of your mentors on the following topics:
 

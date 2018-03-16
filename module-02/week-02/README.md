@@ -1,4 +1,4 @@
-# WEEK 02: To be defined
+# WEEK 02: Building a Storefront using Shopify
 
 ## Day 1
 

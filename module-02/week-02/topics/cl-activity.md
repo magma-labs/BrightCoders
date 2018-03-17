@@ -22,3 +22,7 @@ This tool is widely used by professional developers, so it is important to know 
 * SASS. For building your store front using shopify you will require Sass. To learn the basics of Sass, use the following resource:
 
 `npm install -g learn-sass`
+
+## Resources
+* [Sass 7-1 pattern](https://gist.github.com/rveitch/84cea9650092119527bc)
+* [Sass Guidelines: 7-1 pattern](https://sass-guidelin.es/#the-7-1-pattern)

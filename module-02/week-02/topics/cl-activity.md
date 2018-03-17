@@ -16,14 +16,9 @@ Javascript is a technical skill and highly valued by companies. To lear more abo
 
 ## Bash
 
-* Bash. Está herramienta es muy utilizada por nuestros ingenieros en MagmaLabs, por lo que es importante saber como utilizarla más allá de sus comandos básicos. Para conocer más sobre bash, atenderán el siguiente curso el cual está disponible en la plataforma de pluralsigth. https://www.pluralsight.com/courses/bash-shell-scripting , para tener acceso al curso, utilizarán la cuenta de MagmaLabs  pluralsight@magmalabs.io:magmatraining . Esta cuenta es de uso exclusivo de Magma, por lo que se les solicita atentamente hacer uso responsable de la misma
-* SASS. En esta ocasión para la programación de su tema con Shopify utilizarán este lenguaje. Para aprender más utilicen el siguiente recurso:
-learn-sass
-Learn the basics of SASS
-npm install -g learn-sass
-Adicional a esto se programarán los siguientes cursos introductores
+This tool is widely used by professional developers, so it is important to know how to use it beyond its basic commands. To learn more about bash, you will attend the [Shell scripting with bash course](https://www.pluralsight.com/courses/bash-shell-scripting) which is available on the pluralsigth platform.
 
-* Sass impartido por Alberto
-* Jira impartido por Alan
+## Sass
+* SASS. For building your store front using shopify you will require Sass. To learn the basics of Sass, use the following resource:
 
-Recuerden que el modelo que estamos siguiendo es el de mentiría en el cual el auto-aprendizaje es fundamental pero también cuentan con el respaldo de sus mentores quienes están al pendiente y complementando su formación, de tal forma que en los temas que requieran ayuda adicional o encuentren dificultades tengan la confianza de informarnos para apoyarlos.
+`npm install -g learn-sass`

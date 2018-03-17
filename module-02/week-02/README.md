@@ -6,4 +6,19 @@ Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Class |Guided | 1 hr | [Kick off and Sprint planning meeting]() | Tech PM
 02 | Practical | Self-paced| 4 hrs | [Building a Storefront using Shopify]() | MHackers
-03 | Practical | Self-paced | 1 hr | [Javascript, Bash, Shopify](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-01/topics/slate.md) | MHackers
+03 | Practical | Self-paced | 1 hr | [Javascript, Bash, Shopify and Sass]() | MHackers
+
+## Day 2 - 4
+
+Num | Type | Format | Duration | Description | Who
+-- | -- | -- | -- | -- | --
+01 | Class |Guided | 15 min | [Stand up meeting]() | Tech PM
+02 | Practical | Self-paced| 5.45 hrs | [Building a Storefront using Shopify]() | MHackers
+
+## Day 5
+
+Num | Type | Format | Duration | Description | Who
+-- | -- | -- | -- | -- | --
+01 | Class |Guided | 15 min | [Stand up meeting]() | Tech PM
+01 | Class |Guided | 30 min | [Retrospective meeting]() | Tech PM
+02 | Practical | Self-paced| 5.15 hrs | [Building a Storefront using Shopify]() | MHackers

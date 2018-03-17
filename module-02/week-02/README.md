@@ -13,12 +13,14 @@ Num | Type | Format | Duration | Description | Who
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Class |Guided | 15 min | [Stand up meeting]() | Tech PM
-02 | Practical | Self-paced| 5.45 hrs | [Building a Storefront using Shopify]() | MHackers
+02 | Practical | Self-paced| 4.45 hrs | [Building a Storefront using Shopify]() | MHackers
+03 | Practical | Self-paced | 1 hr | [Javascript, Bash, Shopify and Sass]() | MHackers
 
 ## Day 5
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
 01 | Class |Guided | 15 min | [Stand up meeting]() | Tech PM
-01 | Class |Guided | 30 min | [Retrospective meeting]() | Tech PM
-02 | Practical | Self-paced| 5.15 hrs | [Building a Storefront using Shopify]() | MHackers
+02 | Class |Guided | 30 min | [Retrospective meeting]() | Tech PM
+03 | Practical | Self-paced| 4.15 hrs | [Building a Storefront using Shopify]() | MHackers
+03 | Practical | Self-paced | 1 hr | [Javascript, Bash, Shopify and Sass]() | MHackers

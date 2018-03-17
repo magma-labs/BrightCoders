@@ -57,7 +57,7 @@
 * [Configuring Them Settings](https://help.shopify.com/themes/development/theme-editor/settings-schema#section)
 * [Liquid: Whitespace Control](https://shopify.github.io/liquid/basics/whitespace/)
 * [Advanced Shopify Theme Development](https://www.skillshare.com/classes/Advanced-Shopify-Theme-Development/708093439/classroom/discussions?enrolledRedirect=1)
-* [How to work with images in shopofy](https://webdesign.tutsplus.com/tutorials/how-to-work-with-images-in-shopify--cms-26149)
+* [How to work with images in shopify](https://webdesign.tutsplus.com/tutorials/how-to-work-with-images-in-shopify--cms-26149)
 
 # Ruby
 

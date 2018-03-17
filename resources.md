@@ -62,3 +62,6 @@
 # Ruby
 
 * [The Middleman Framework](https://middlemanapp.com/)
+
+# Best practices
+* [Best Practices](https://github.com/magma-labs/magmalabs-policies/blob/master/engineering/processes/pull-request-flow.md)

@@ -1,4 +1,4 @@
-# Javascript, 
+# Javascript, Bash, Shopify and Sass 
 
 One of the objectives of this program is to develop technical and soft skills that facilitate your integration to a work team such as MagmaLabs or similar companies.
 

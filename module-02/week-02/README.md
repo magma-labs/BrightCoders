@@ -4,7 +4,7 @@
 
 Num | Type | Format | Duration | Description | Who
 -- | -- | -- | -- | -- | --
-01 | Class |Guided | 1 hr | [Kick off and Sprint planning meeting]() | Tech PM
+01 | Class |Guided | 1 hr | [Project Kick-off and Sprint Planning Meeting](https://github.com/magma-labs/MagmaHackers/blob/master/module-02/week-02/topics/kick-off-sprint-planning.md) | Tech PM
 02 | Practical | Self-paced| 4 hrs | [Building a Storefront using Shopify]() | MHackers
 03 | Continuous Learning | Self-paced | 1 hr | [Javascript, Bash, Shopify and Sass]() | MHackers
 

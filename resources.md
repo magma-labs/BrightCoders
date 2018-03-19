@@ -1,6 +1,6 @@
 # Recommended Resources
 
-# Product Development Workflow
+# SCRUM
 
 * [Product Development: Workflow (slides)](https://drive.google.com/open?id=191seiKBAXF8-bR6wXtoZZjc6KntCZb8d)
 * [Select your theme](https://www.dropbox.com/sh/l4ltmmel0h0tlam/AADOkbZkFLCpuvtEPnYLfBNXa?dl=0)
@@ -11,6 +11,11 @@
 * [Sprint Review](https://www.mitchlacey.com/intro-to-agile/scrum/sprint-review)
 * [How to give a great Sprint Demo](http://agileforall.com/how-to-give-a-great-sprint-demo/)
 * [Scrum in practice: The sprint demo](https://manifesto.co.uk/scrum-practice-sprint-demo/)
+* [What is sprint planning](https://www.scrum.org/resources/what-is-sprint-planning)
+* [Sprint planning](http://www.scrumguides.org/scrum-guide.html#events-planning)
+* [The Agile Project Kick-off Kit](https://www.boost.co.nz/blog/2017/03/project-kick-off-kit)
+* [Scrum ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
+* [5 Tips for Running a Successful Agile Project Kickoff](https://medium.com/@Yodiz/5-tips-for-running-a-successful-agile-project-kickoff-2a816b190121)
 
 # Git
 * [Git How To: Guided Git Tutorial](https://githowto.com/)

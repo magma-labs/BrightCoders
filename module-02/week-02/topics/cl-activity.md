@@ -12,7 +12,9 @@ This activity is not necessarily individual, you can organize yourself and perfo
 
 ## Javascript
 
-Javascript is a technical skill and highly valued by companies. To lear more about this language, you should start by reading the first book of the series You Do not Know JS, titled [UP & Going](https://github.com/getify/You-Dont-Know-JS). *"JavaScript is awesome. It's easy to learn partially, and much harder to learn completely (or even sufficiently). When developers encounter confusion, they usually blame the language instead of their lack of understanding. These books aim to fix that, inspiring a strong appreciation for the language you can now, and should, deeply know."* (Taken from the book's preface)
+Javascript is a technical skill and highly valued by companies. To learn more about this language, you should start by reading the first book of the series You Do not Know JS, titled [UP & Going](https://github.com/getify/You-Dont-Know-JS). 
+
+*"JavaScript is awesome. It's easy to learn partially, and much harder to learn completely (or even sufficiently). When developers encounter confusion, they usually blame the language instead of their lack of understanding. These books aim to fix that, inspiring a strong appreciation for the language you can now, and should, deeply know."* (Taken from the book's preface)
 
 ## Bash
 

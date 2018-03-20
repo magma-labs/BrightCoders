@@ -32,8 +32,9 @@ Num | Chohort | MH Sudents
 1 | FEB 2018 | 5
 
 ## Calendar
-
-Num | Module | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16
+     
+     | | | |
+Num | Module | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W13 | W14 | W15 | W16
 ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 01 | Welcome to MagmaLabs | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
 02 | Frontend programming | :black_circle: | :black_circle: | :black_circle:| |  |  | | |  |  | | |  | | | |

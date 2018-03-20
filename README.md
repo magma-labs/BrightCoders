@@ -33,7 +33,6 @@ Num | Chohort | MH Sudents
 
 ## Calendar
      
-     | | | |
 Num | Module | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W13 | W14 | W15 | W16
 ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 01 | Welcome to MagmaLabs | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
@@ -45,9 +44,28 @@ Num | Module | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W1
 
 Num | Module | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16
 ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-01 | Welcome to MagmaLabs | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
-02 | Frontend programming | :black_circle: | :black_circle: | :black_circle:| |  |  | | |  |  | | |  | | | |
-03 | Building a storefront using shopify | | |  | :black_circle: | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
-04 | |  |  | | |  |  | | |  |  | | |  |  | | 
+01 | Html | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
+02 | Css | :black_circle: | :black_circle: | :black_circle:| |  |  | | |  |  | | |  | | | |
+03 | Git | | |  | :black_circle: | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
+04 | Liquid |  | | |  |  | | |  |  | | |  |  | | 
+05 | Shopify | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
+06 | Sass | :black_circle: | :black_circle: | :black_circle:| |  |  | | |  |  | | |  | | | |
+07 | Bash | | |  | :black_circle: | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
+08 | Ruby|  | | |  |  | | |  |  | | |  |  | | 
+09 | Ruby on rails |  | | |  |  | | |  |  | | |  |  | | 
+10 | Javascript |  | | |  |  | | |  |  | | |  |  | | 
+11 | Agile programming best practices |  | | |  |  | | |  |  | | |  |  | | 
+13 | Haml |  | | |  |  | | |  |  | | |  |  | | 
+14 | Requirement Analysis |  | | |  |  | | |  |  | | |  |  | | 
+15 | Tools |  | | |  |  | | |  |  | | |  |  | | 
+16 | Contribute back to the community |  | | |  |  | | |  |  | | |  |  | | 
+17 | Comunication |  | | |  |  | | |  |  | | |  |  | | 
+17 | Teamwork |  | | |  |  | | |  |  | | |  |  | | 
+17 | Attitude |  | | |  |  | | |  |  | | |  |  | | 
+17 | Critical thinking |  | | |  |  | | |  |  | | |  |  | | 
+17 | Ego Management |  | | |  |  | | |  |  | | |  |  | | 
+17 | Adaptability |  | | |  |  | | |  |  | | |  |  | | 
+
+
 
 

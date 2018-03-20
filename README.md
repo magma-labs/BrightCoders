@@ -35,9 +35,9 @@ Num | Chohort | MH Sudents
      
 Num | Module | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W13 | W14 | W15 | W16
 ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-01 | Welcome to MagmaLabs | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
-02 | Frontend programming | :black_circle: | :black_circle: | :black_circle:| |  |  | | |  |  | | |  | | | |
-03 | Building a storefront using shopify | | |  | :black_circle: | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
+01 | Welcome to MagmaLabs | :white_circle: |  | | |  |  | | |  |  | | |  |  | | 
+02 | Frontend programming | :white_circle: | :white_circle: | :white_circle:| |  |  | | |  |  | | |  | | | |
+03 | Building a storefront using shopify | | |  | :white_circle: | :white_circle: | :white_circle:  | | |  |  | | |  |  | | 
 04 | |  |  | | |  |  | | |  |  | | |  |  | | 
 
 ## Skills
@@ -60,11 +60,11 @@ Num | Module | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 
 15 | Tools |  | | |  |  | | |  |  | | |  |  | | 
 16 | Contribute back to the community |  | | |  |  | | |  |  | | |  |  | | 
 17 | Comunication |  | | |  |  | | |  |  | | |  |  | | 
-17 | Teamwork |  | | |  |  | | |  |  | | |  |  | | 
-17 | Attitude |  | | |  |  | | |  |  | | |  |  | | 
-17 | Critical thinking |  | | |  |  | | |  |  | | |  |  | | 
-17 | Ego Management |  | | |  |  | | |  |  | | |  |  | | 
-17 | Adaptability |  | | |  |  | | |  |  | | |  |  | | 
+18 | Teamwork |  | | |  |  | | |  |  | | |  |  | | 
+19 | Attitude |  | | |  |  | | |  |  | | |  |  | | 
+20 | Critical thinking |  | | |  |  | | |  |  | | |  |  | | 
+21 | Ego Management |  | | |  |  | | |  |  | | |  |  | | 
+22 | Adaptability |  | | |  |  | | |  |  | | |  |  | | 
 
 
 

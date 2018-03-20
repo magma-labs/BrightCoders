@@ -40,6 +40,6 @@ Num | Module | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 
 ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 01 | Welcome to MagmaLabs | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
 02 | Frontend programming | :black_circle: | :black_circle: | :black_circle:| |  |  | | |  |  | | |  | | | |
-03 | Frontend programming | | |  | :black_circle: | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
+03 | Building a storefront using shopify | | |  | :black_circle: | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
 04 | |  |  | | |  |  | | |  |  | | |  |  | | 
 

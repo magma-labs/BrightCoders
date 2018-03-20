@@ -44,21 +44,21 @@ Num | Module | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W1
 
 Num | Module | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16
 ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-01 | Html | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
-02 | Css | :black_circle: | :black_circle: | :black_circle:| |  |  | | |  |  | | |  | | | |
-03 | Git | | |  | :black_circle: | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
-04 | Liquid |  | | |  |  | | |  |  | | |  |  | | 
-05 | Shopify | :black_circle: |  | | |  |  | | |  |  | | |  |  | | 
-06 | Sass | :black_circle: | :black_circle: | :black_circle:| |  |  | | |  |  | | |  | | | |
-07 | Bash | | |  | :black_circle: | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
+01 | Html | :white_circle: | :white_circle: |:white_circle: | |  |  | | |  |  | | |  |  | | 
+02 | Css | :white_circle: | :white_circle: | :white_circle:| |  |  | | |  |  | | |  | | | |
+03 | Git | :white_circle:| :white_circle:| :white_circle: | :white_circle: | :white_circle: | :white_circle:  | | |  |  | | |  |  | | 
+04 | Liquid |  | | |  :white_circle: | :white_circle:  |  :white_circle: | |  |  | | |  |  | | 
+05 | Shopify |  |  | | :white_circle: | :white_circle: | :white_circle: | | |  |  | | |  |  | | 
+06 | Sass |  |  || | :white_circle: | :white_circle: | :white_circle: | |  |  | | |  | | | |
+07 | Bash | | |  | | :black_circle: | :black_circle:  | | |  |  | | |  |  | | 
 08 | Ruby|  | | |  |  | | |  |  | | |  |  | | 
 09 | Ruby on rails |  | | |  |  | | |  |  | | |  |  | | 
-10 | Javascript |  | | |  |  | | |  |  | | |  |  | | 
-11 | Agile programming best practices |  | | |  |  | | |  |  | | |  |  | | 
+10 | Javascript |  | | |  | :white_circle: | :white_circle: | |  |  | | |  |  | | 
+11 | Agile programming best practices |  | | |  | :white_circle: | | |  |  | | |  |  | | 
 13 | Haml |  | | |  |  | | |  |  | | |  |  | | 
 14 | Requirement Analysis |  | | |  |  | | |  |  | | |  |  | | 
 15 | Tools |  | | |  |  | | |  |  | | |  |  | | 
-16 | Contribute back to the community |  | | |  |  | | |  |  | | |  |  | | 
+16 | Contribute back to the community |  | | |  | :white_circle: |  :white_circle:|  :white_circle:|  |  | | |  |  | | 
 17 | Comunication |  | | |  |  | | |  |  | | |  |  | | 
 18 | Teamwork |  | | |  |  | | |  |  | | |  |  | | 
 19 | Attitude |  | | |  |  | | |  |  | | |  |  | | 

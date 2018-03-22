@@ -1,7 +1,5 @@
 # Shopify Development Workflow
 
-
-
 Num | Who| What | Aim
 ----- | ---- | ---- | ----
 01 | MHacker | Take one ticket from your BACKLOG, move it to the IN PROGRESS card and start working on it | To learn how to build a storefront using shopify, To practice product development workflow and To practice git workflow
@@ -11,3 +9,8 @@ Num | Who| What | Aim
 05 | MHacker | Take one ticket from the READY FOR QA card (not yours but someone else) and make sure it meets the acceptance criteria. If not make comments and request changes. Once the ticket has meet the acceptance criteria move it to the DONE card | To practice product development workflow and To practice git workflow
 06 | MHacker| If one of your tickets is on the DONE card, then make merge on your branch and resolve conficts if necessary | To practice product development workflow and To practice git workflow
 
+
+## Notes
+
+* If you did pair programming on a ticket add the following label on your Jira ticket: 'pairing-name1-name2'
+* If you did code review on a ticket add the following label on your Jira ticket: 'code-review-name'

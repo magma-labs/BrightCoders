@@ -36,15 +36,15 @@ Num | Chohort | MH Sudents
 Num | Module | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W13 | W14 | W15 | W16
 ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 00 | Welcome to MagmaLabs  | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-00)| |  | | |  |  | | |  |  | | |  |  | | 
-01 | Frontend programming | | :white_circle: | :white_circle: | :white_circle:| |  |  | | |  |  | | |  | | | |
-02 | Building a storefront using shopify | | | |  | :white_circle: | :white_circle: | :white_circle:  | | |  |  | | |  |  | | 
+01 | Frontend programming | | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-03) | |  |  | | |  |  | | |  | | | |
+02 | Building a storefront using shopify | | | |  | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-01) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-02) | :white_circle:  | | |  |  | | |  |  | | 
 03 | |  |  | | |  |  | | |  |  | | |  |  | | |
 
 ## Skills
 
 Num | Module | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16
 ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-01 | Html | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-00) | :white_circle: |:white_circle: | |  |  | | |  |  | | |  |  | | 
+01 | Html | :white_circle:| :white_circle: |:white_circle: | |  |  | | |  |  | | |  |  | | 
 02 | Css | :white_circle: | :white_circle: | :white_circle:| |  |  | | |  |  | | |  | | | |
 03 | Git | :white_circle:| :white_circle:| :white_circle: | :white_circle: | :white_circle: | :white_circle:  | | |  |  | | |  |  | | 
 04 | Liquid |  | | |  :white_circle: | :white_circle:  |  :white_circle: | |  |  | | |  |  | | 

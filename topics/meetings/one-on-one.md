@@ -7,7 +7,7 @@ Different managers, project leaders or companies follow different approaches on 
 What are they about?
 Do I need to be prepared?
 
-This [blog](https://dev.to/alainakafkes/what-do-you-talk-about-during-your-one-on-one-meetings-with-your-engineering-or-other-manager-e7d) may help you on understanding these and other questions to get the most of them!
+This [blog](https://dev.to/alainakafkes/what-do-you-talk-about-during-your-one-on-one-meetings-with-your-engineering-or-other-manager-e7d) may help you on understanding these and other questions, and to getting the most of them!
 
 ## Links
 

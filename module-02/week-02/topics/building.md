@@ -6,7 +6,7 @@ Do not forget to keep as updated as posible your git repository and SCRUM board.
 
 # Workflow
 
-For this sprint we will be [following this workflow](https://github.com/magma-labs/MagmaHackers/blob/master/topics/workflow.md)
+For this sprint we will be following this [workflow](https://github.com/magma-labs/MagmaHackers/blob/master/topics/workflow.md)
 
 # Resources
 

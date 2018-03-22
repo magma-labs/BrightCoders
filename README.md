@@ -33,12 +33,12 @@ Num | Chohort | MH Sudents
 
 ## Calendar
      
-Num | Module | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W13 | W14 | W15 | W16
------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-01 | Welcome to MagmaLabs | :white_circle: |  | | |  |  | | |  |  | | |  |  | | 
-02 | Frontend programming | :white_circle: | :white_circle: | :white_circle:| |  |  | | |  |  | | |  | | | |
-03 | Building a storefront using shopify | | |  | :white_circle: | :white_circle: | :white_circle:  | | |  |  | | |  |  | | 
-04 | |  |  | | |  |  | | |  |  | | |  |  | | 
+Num | Module | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W13 | W14 | W15 | W16
+----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+00 | Welcome to MagmaLabs  | | :white_circle: |  | | |  |  | | |  |  | | |  |  | | 
+01 | Frontend programming | | :white_circle: | :white_circle: | :white_circle:| |  |  | | |  |  | | |  | | | |
+02 | Building a storefront using shopify | | | |  | :white_circle: | :white_circle: | :white_circle:  | | |  |  | | |  |  | | 
+03 | |  |  | | |  |  | | |  |  | | |  |  | | |
 
 ## Skills
 

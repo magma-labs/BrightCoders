@@ -20,6 +20,7 @@ Module | Duration | Topic
 00 | 1 Day | [Welcome to Magmalabs!](https://github.com/magma-labs/MagmaHackers/tree/master/module-00)
 01 | 3 Weeks | [Frontend programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01)
 02 | 4 Weeks |[Building a Storefront using Shopify](https://github.com/magma-labs/MagmaHackers/tree/master/module-02)
+03 | ? Weeks | [Becoming a Ruby programmer]
 
 ## Resources
 

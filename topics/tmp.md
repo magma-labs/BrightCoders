@@ -2,7 +2,7 @@
 
 *Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.* [Definition taken from Ruby's web page.](https://www.ruby-lang.org/en/)
 
-During this week you will be assigned different tasks that will help you on quicly becoming a Ruby programming. The following activities comprehend a set of resources that were carefully selected and organized. Thus you must complete tasks as indicated.
+During this week you will be assigned different tasks that will help you on quickly becoming a Ruby programming. The following activities comprehend a set of resources that were carefully selected and organized. Thus, you must complete tasks as indicated.
 
 To become a ruby programmer you will study de following the resources. Please study them one by one in the order indicated.
 

@@ -22,6 +22,7 @@ Keeping a daily registration on our daily activities is an important requirement
 `
 
 **Similarly, if you are doing code review:**
+
 `
 [][] Code Review - Feature/featured categories shopify
 `

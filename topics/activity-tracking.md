@@ -4,7 +4,9 @@ Keeping a daily registration on our daily activities is an important requirement
 
 **For registering your daily activities use the following format:**
 
+`
 [project code][points] topic
+`
 
 **For example:**
 

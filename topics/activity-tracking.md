@@ -9,6 +9,7 @@ Keeping a daily registration on our daily activities is an important requirement
 `
 
 **For example:**
+
 `
 [MH2018-10][3] Feature/featured categories shopify
 `

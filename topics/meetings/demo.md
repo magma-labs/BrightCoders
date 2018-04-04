@@ -11,7 +11,7 @@ The purpose of this meeting is for the team to show the customers and stakeholde
 
 * The work the team committed to delivering
 * The work they completed
-* Key decisions that were made during the iteration/sprint (this may include technical, market-driven, requirements, etc, and * can be decisions made by the team, the product owner, the customers, or anyone else)
+* Key decisions that were made during the iteration/sprint (this may include technical, market-driven, requirements, etc, and can be decisions made by the team, the product owner, the customers, or anyone else)
 * Project metrics (code coverage, etc)
 * Demo of the work itself
 * Priority review (for the next iteration/sprint)

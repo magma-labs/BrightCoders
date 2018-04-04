@@ -12,7 +12,7 @@ The sprint retrospective is an important mechanism that allows a team to continu
 
 It is important that everyone, including the team, product owner, and ScrumMaster, get a chance to air their opinions in an open, honest, yet constructive atmosphere. It often also helps management to get feedback from the team about the work and progress of project.
 
-Key elements of the sprint retrospective:
+Key elements of the sprint retrospective
 ===============================
 Process improvements are made at the end of every sprint. This ensures that the project team is always improving the way it works.
 

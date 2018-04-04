@@ -8,6 +8,6 @@ This module includes different activities and challenges that will help you to u
 
 Week | Topic
 ----- | ----
-01 | [Ruby fundamentals: A practical introduction]()
+01 | [Ruby fundamentals: A practical introduction](https://github.com/magma-labs/MagmaHackers/tree/master/module-03/week-01)
 02 | []()
 03 | []()

@@ -1,11 +1,6 @@
 # Building a Storefront using Shopify
 
-On this module you will learn how to build a store front using Shopify
-
-The following topics will be covered:
-
-* Sprint Review
-* Structure of a Shopify theme
+On this module you will learn how to build a Storefront using Shopify. This module starts with a deep study of shopify principles, concepts and structure. You will be challenged to fully program a custom Storefront.
 
 ## Content
 

@@ -13,7 +13,10 @@ Order | Resource
 3 | [Code Academy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 4 | [Learn Ruby With the Edgecase Ruby Koans](http://rubykoans.com/)
 5 | [Challenge: Tic Tac Toe](https://gist.github.com/vicmaster/56bda5ba51e87a39682c17de36732719)
+6 | [Challenge: Conway's game of life](http://web.stanford.edu/~cdebs/GameOfLife/)
 
 # Resources
 
 * [Eloquent Ruby](https://drive.google.com/open?id=1792A2pkriOnjwb7Lh7MPtx7lUuSusrub)
+* [Conway's game of life](http://web.stanford.edu/~cdebs/GameOfLife/)
+* [Conway's game of life](https://bitstorm.org/gameoflife/)

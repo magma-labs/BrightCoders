@@ -12,8 +12,9 @@ Order | Resource
 2 | [Hackerrank: Ruby](https://www.hackerrank.com/domains/ruby/ruby-tutorials)
 3 | [Code Academy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 4 | [Learn Ruby With the Edgecase Ruby Koans](http://rubykoans.com/)
-5 | [Challenge: Tic Tac Toe](https://gist.github.com/vicmaster/56bda5ba51e87a39682c17de36732719)
-6 | [Challenge: Conway's game of life](http://web.stanford.edu/~cdebs/GameOfLife/)
+5 | [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
+6 | [Challenge: Tic Tac Toe](https://gist.github.com/vicmaster/56bda5ba51e87a39682c17de36732719)
+7 | [Challenge: Conway's game of life](http://web.stanford.edu/~cdebs/GameOfLife/)
 
 # Resources
 

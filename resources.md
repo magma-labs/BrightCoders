@@ -72,6 +72,7 @@
 * [Code Academy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 * [Learn Ruby With the Edgecase Ruby Koans](http://rubykoans.com/)
 * [Eloquent Ruby](https://drive.google.com/open?id=1792A2pkriOnjwb7Lh7MPtx7lUuSusrub)
+* [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
 
 # Best practices
 

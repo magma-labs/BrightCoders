@@ -67,6 +67,12 @@
 # Ruby
 
 * [The Middleman Framework](https://middlemanapp.com/)
+* [Code School: Try Ruby](https://www.codeschool.com/courses/try-ruby)
+* [Hackerrank: Ruby](https://www.hackerrank.com/domains/ruby/ruby-tutorials)
+* [Code Academy: Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+* [Learn Ruby With the Edgecase Ruby Koans](http://rubykoans.com/)
+* [Eloquent Ruby](https://drive.google.com/open?id=1792A2pkriOnjwb7Lh7MPtx7lUuSusrub)
 
 # Best practices
+
 * [Best Practices](https://github.com/magma-labs/magmalabs-policies/blob/master/engineering/processes/pull-request-flow.md)

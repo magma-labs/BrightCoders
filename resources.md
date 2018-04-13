@@ -78,7 +78,7 @@
 * [Eloquent Ruby](https://drive.google.com/open?id=1792A2pkriOnjwb7Lh7MPtx7lUuSusrub)
 * [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
 
-# Best Agile practices
+# Best Agile Practices
 
 * [Best Practices](https://github.com/magma-labs/magmalabs-policies/blob/master/engineering/processes/pull-request-flow.md)
 * [Pluralsight: Pair programming] (https://www.pluralsight.com/courses/pair-programming)

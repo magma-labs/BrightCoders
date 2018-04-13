@@ -81,7 +81,7 @@
 # Best Agile Practices
 
 * [Best Practices](https://github.com/magma-labs/magmalabs-policies/blob/master/engineering/processes/pull-request-flow.md)
-* [Pluralsight: Pair programming] (https://www.pluralsight.com/courses/pair-programming)
+* [Pluralsight: Pair programming](https://www.pluralsight.com/courses/pair-programming)
 * [Activity tracking](https://github.com/magma-labs/MagmaHackers/blob/master/topics/activity-tracking.md)
 * [The stepdown rule](http://tidyjava.com/stepdown-rule/)
 * [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0&list=PLyAFCmDPAMKYYWIel7jwHFRN62lNoacd3&t=24s&index=2)

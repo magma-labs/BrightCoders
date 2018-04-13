@@ -1,4 +1,4 @@
-# Recommended Resources
+# Recomended Resources
 
 # SCRUM
 

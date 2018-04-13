@@ -22,6 +22,9 @@
 * [Git - Book](https://git-scm.com/book/en/v2)
 * [How to Write a Commit Message](https://chris.beams.io/posts/git-commit/)
 * [Learn Git Branching](https://learngitbranching.js.org/index.html)
+* [--force considered harmful; understanding git's --force-with-lease](https://developer.atlassian.com/blog/2015/04/force-with-lease/)
+* [Git: Squash your latests commits ino one](https://www.devroom.io/2011/07/05/git-squash-your-latests-commits-into-one/)
+* [git-bisect](https://git-scm.com/docs/git-bisect)
 
 # HTML & CSS
 
@@ -40,6 +43,7 @@
 * [Learn CSS Variables in 5 minutes](https://medium.freecodecamp.org/learn-css-variables-in-5-minutes-80cf63b4025d)
 * [The boyscout rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 * [Unificando estilos de programación con EditorConfig](http://juancrg90.me/unificando-estilos-de-programacion-con-editorconfig-2/)
+* [Super Mario World made only with CSS gradients - no JS](https://medium.com/@alcidesqueiroz/super-mario-world-in-css-100-css-no-javascript-no-embedded-images-data-uris-no-external-e43dc0c2b1f4) 
 
 # Mobile First
 
@@ -74,6 +78,11 @@
 * [Eloquent Ruby](https://drive.google.com/open?id=1792A2pkriOnjwb7Lh7MPtx7lUuSusrub)
 * [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
 
-# Best practices
+# Best Agile practices
 
 * [Best Practices](https://github.com/magma-labs/magmalabs-policies/blob/master/engineering/processes/pull-request-flow.md)
+* [Pluralsight: Pair programming] (https://www.pluralsight.com/courses/pair-programming)
+* [Activity tracking](https://github.com/magma-labs/MagmaHackers/blob/master/topics/activity-tracking.md)
+* [The stepdown rule](http://tidyjava.com/stepdown-rule/)
+* [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0&list=PLyAFCmDPAMKYYWIel7jwHFRN62lNoacd3&t=24s&index=2)
+

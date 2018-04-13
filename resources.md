@@ -1,6 +1,6 @@
 # Recomended Resources
 
-# SCRUM
+# Scrum
 
 * [Product Development: Workflow (slides)](https://drive.google.com/open?id=191seiKBAXF8-bR6wXtoZZjc6KntCZb8d)
 * [Select your theme](https://www.dropbox.com/sh/l4ltmmel0h0tlam/AADOkbZkFLCpuvtEPnYLfBNXa?dl=0)
@@ -26,7 +26,7 @@
 * [Git: Squash your latests commits ino one](https://www.devroom.io/2011/07/05/git-squash-your-latests-commits-into-one/)
 * [git-bisect](https://git-scm.com/docs/git-bisect)
 
-# HTML & CSS
+# Html & Css
 
 * [Flebox Forggy: A game for learning CSS flexbox](http://flexboxfroggy.com/#es)
 * [Flexbox Defense: A game for learning CSS](http://www.flexboxdefense.com/)

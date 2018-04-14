@@ -32,8 +32,10 @@ Once all MagmaHackers have completed a same tasks a demo will be organised so yo
 
 ## Content
 
-Week | Topic
+Module duration: ? weeks
+
+Section | Description
 ----- | ----
-01 | [Ruby fundamentals: A practical introduction](https://github.com/magma-labs/MagmaHackers/tree/master/module-03/week-01)
-02 | []()
-03 | []()
+01 | [Learning Ruby](https://github.com/magma-labs/MagmaHackers/tree/master/module-03/week-01)
+02 | [Learning Ruby on Rails]()
+03 | [The Project]()

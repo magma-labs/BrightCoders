@@ -9,7 +9,7 @@ Thus, the following three sectrions are part of this module:
 
 This section includes different activities and challenges that will help you to understand andthear the Ruby programming language. This section is not only introductory but will take you to the next level by requiring you to develop some interesting applications.
 
-### Learning Ruby on Rais
+### Learning Ruby on Rails
 ... work in progress..
 
 ### The Project
@@ -20,6 +20,15 @@ and therefore also responsabilities to fulfill but also support from your mentor
 
 ## How to work on this module
 
+### The Project 
+Projects have different duration, deadlines and workoad. Therefor, the speed at which each one of you will advance may vary. 
+In order not to interfere with the compromises assinged to you in your projects, the activities that have been defined in the ruby and ruby on rails sections do not have a defined a deadline. In other words there are no excuses for not fulfilling the tasks of your projects in time.
+
+### Ruby and Ruby on Rails Tasks
+At the end of both, ruby and ruby on rails sections you must develop some tasks. Once you consider you have  completed  a task you should notify (on slack) to mentors that you have finished that task so they can review your code, give you feedback or aprobe your task. One task is considered as finished only once you have attended mentors all mentors comments and they have informed to you that there is nothing else to do. Once your tasks has been approved by your mentors you should notify (on slack) so we can track who has finished which tasks.
+
+### Ruby and Ruby on Rails Demos
+Once all MagmaHackers have completed a same tasks a demo will be organised so you can present what you have done.
 
 ## Content
 

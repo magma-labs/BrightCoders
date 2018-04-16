@@ -1,4 +1,4 @@
-# Becoming a Ruby on Rails Programmer
+# Ruby on Rails Programming
 
 On this module you will learn how to build modern web applications using Ruby on Rails. Before diving into RoR you will first learn how to program with Ruby. Along this module you will also join a team to contribute to a project.
 

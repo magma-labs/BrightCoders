@@ -11,10 +11,10 @@ To become a ruby programmer you will study the following resources. It is recomm
 Order | Resource 
 ----- | ---- 
 1 | [Setup Ruby On Rails on macOS 10.13 High Sierra](https://gorails.com/setup/osx/10.13-high-sierra), [Install Rails: A step-by-step guide](http://www.installrails.com/)
-3 | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+2 | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+3 | [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 4 | [Pluralsight: Ruby on Rails 4: Getting Started](https://www.pluralsight.com/courses/ruby-rails-4-getting-started)
 5 | [Pluralsight: Testing Ruby Applications with RSpec](https://www.pluralsight.com/courses/rspec-ruby-application-testing)
-6 | [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 
 ## Recommended Books
 

@@ -7,10 +7,12 @@ Thus, the following three sectrions are part of this module:
 ### Learning Ruby
 *Ruby is dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.* Definition taken from [Ruby's official web page](https://www.ruby-lang.org/en/). 
 
-This section includes different activities and challenges that will help you to understand andthear the Ruby programming language. This section is not only introductory but will take you to the next level by requiring you to develop some interesting applications.
+This section includes different activities and challenges that will help you to understand the Ruby programming language. This section is not only introductory but will take you to the next level by requiring you to develop some interesting applications.
 
 ### Learning Ruby on Rails
-... work in progress..
+*Rails is a web application development framework written in the Ruby programming language. It is designed to make programming web applications easier by making assumptions about what every developer needs to get started. It allows you to write less code while accomplishing more than many other languages and frameworks. Experienced Rails developers also report that it makes web application development more fun.* [Definition taken from Ruby on Rails web page.](http://guides.rubyonrails.org/getting_started.html)
+
+On this section different lectures and tutorials are asigned so you can learn the fundamentlas of Ruby on Rails. To put in practice what you are learning, you will program a TODO app.
 
 ### The Project
 Each of you will join to a team working on a project. Distribution of hackers will depend on the number of projects available and the number of participants required for each project. Each project has a Project Manager or Leader who will give you all the information required to understand the projects and also asing you tasks with deadlines. For all matters related to the project, you will address and respond to the person responsible for your project.

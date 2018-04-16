@@ -20,7 +20,7 @@ Module | Duration | Topic
 00 | 1 Day | [Welcome to Magmalabs!](https://github.com/magma-labs/MagmaHackers/tree/master/module-00)
 01 | 3 Weeks | [Frontend programming](https://github.com/magma-labs/MagmaHackers/blob/master/module-01)
 02 | 4 Weeks | [Building a Storefront using Shopify](https://github.com/magma-labs/MagmaHackers/tree/master/module-02)
-03 | 2 Weeks | [Becoming a Ruby on Rails programmer](https://github.com/magma-labs/MagmaHackers/tree/master/module-03)
+03 | 2 Weeks | [Ruby on Rails programmer](https://github.com/magma-labs/MagmaHackers/tree/master/module-03)
 
 ## Resources
 
@@ -39,7 +39,7 @@ Num | Module | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12
 00 | Welcome to MagmaLabs  | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-00)| |  | | |  |  | | |  |  | | |  |  | | 
 01 | Frontend programming | | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-03) | |  |  | | |  |  | | |  | | | |
 02 | Building a storefront using shopify | | | |  | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-01) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-02) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-03)  | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-04) | |  |  | | |  |  | | 
-03 | Becoming a Ruby programmer |  |  | | |  |  | | | :large_blue_circle: |  | | |  |  | | |
+03 | Becoming a Ruby programmer |  |  | | |  |  | | | [:white_circle:] | :large_blue_circle: | | |  |  | | |
 
 ## Skills
 

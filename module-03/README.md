@@ -36,8 +36,17 @@ Once all MagmaHackers have completed a same tasks a demo will be organised so yo
 
 Module duration: ? weeks
 
+### Sections
+
 Section | Description
 ----- | ----
 01 | [Learning Ruby](https://github.com/magma-labs/MagmaHackers/blob/master/topics/ruby-intro.md)
 02 | [Learning Ruby on Rails](https://github.com/magma-labs/MagmaHackers/blob/master/topics/ruby-on-rails.md)
-03 | [The Project]()
+03 | [The Project](https://github.com/magma-labs/MagmaHackers/blob/master/module-03/the-project.md)
+
+### Workshops
+
+ Num | Workshop
+----- | ----
+01 | Test Driven Development
+

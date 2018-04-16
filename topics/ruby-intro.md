@@ -27,7 +27,7 @@ Num | Description
 1 | [Tic Tac Toe](https://gist.github.com/vicmaster/56bda5ba51e87a39682c17de36732719)
 2 | [Conway's game of life](http://web.stanford.edu/~cdebs/GameOfLife/)
 
-# Resources
+## Resources
 
 * [Eloquent Ruby](https://drive.google.com/open?id=1792A2pkriOnjwb7Lh7MPtx7lUuSusrub)
 * [Conway's game of life](http://web.stanford.edu/~cdebs/GameOfLife/)

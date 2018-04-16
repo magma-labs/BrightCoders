@@ -38,6 +38,6 @@ Module duration: ? weeks
 
 Section | Description
 ----- | ----
-01 | [Learning Ruby](https://github.com/magma-labs/MagmaHackers/tree/master/module-03/week-01)
+01 | [Learning Ruby](https://github.com/magma-labs/MagmaHackers/blob/master/topics/ruby-intro.md)
 02 | [Learning Ruby on Rails](https://github.com/magma-labs/MagmaHackers/blob/master/topics/ruby-on-rails.md)
 03 | [The Project]()

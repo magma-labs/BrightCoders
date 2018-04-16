@@ -17,6 +17,11 @@ Order | Resource
 5 | [Pluralsight: Testing Ruby Applications with RSpec](https://www.pluralsight.com/courses/rspec-ruby-application-testing)
 6 | [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 
+# Recommended Books
+
+* [Ruby on Rails Tutorial (Rails 5), Michael Hartl](https://www.railstutorial.org/book)
+* [The Rails 5 Way, Kevin Faustino, Obie Fernandez](https://www.safaribooksonline.com/library/view/the-rails-5/9780134657691/)
+
 ## Project
 
 Once you feel confortable enough with Ruby on Rails, you should complete the following project:
@@ -34,8 +39,3 @@ Num | Feature | Notes
 5 | Users should receive weekly email including pending tasks | Using emails and BackgroundJobs with Sidekiq and Redis
 6 | Users can update your profile: name, email, description and photo | Poto must be uploaded, you could use paperclip for this task
 7 | The app must inckude unit tests with Rspec and integration with either Cucumber or Capybara |
-
-# Recommended Books
-
-* [Ruby on Rails Tutorial (Rails 5), Michael Hartl](https://www.railstutorial.org/book)
-* [The Rails 5 Way, Kevin Faustino, Obie Fernandez](https://www.safaribooksonline.com/library/view/the-rails-5/9780134657691/)

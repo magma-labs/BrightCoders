@@ -6,7 +6,7 @@ To becoma a Ruby on Rails programed you will study the following resources which
 
 ## Readings & Tutorials
 
-To become a ruby programmer you will study de following the resources. It is recommended to study them following the sugested order, although depending on your previous knowledge on Ruby or study preferences you could follow a different order.
+To become a ruby programmer you will study the following resources. It is recommended to study them following the sugested order, although depending on your previous knowledge on Ruby or study preferences you could follow a different order.
 
 Order | Resource 
 ----- | ---- 

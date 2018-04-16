@@ -25,7 +25,7 @@ Once you feel confortable enough with Ruby on Rails, you should complete the fol
 
 Yo should develop a TODO App that includes the following features
 
-Num | Feature  Notes
+Num | Feature | Notes
 ----- | ---- | ---- 
 1 | Users should login to the App | Devise/Omniauth  
 2 | Users can create, read, update and delete (CRUD) lists of TODOs |

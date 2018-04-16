@@ -17,7 +17,7 @@ Order | Resource
 5 | [Pluralsight: Testing Ruby Applications with RSpec](https://www.pluralsight.com/courses/rspec-ruby-application-testing)
 6 | [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 
-# Recommended Books
+## Recommended Books
 
 * [Ruby on Rails Tutorial (Rails 5), Michael Hartl](https://www.railstutorial.org/book)
 * [The Rails 5 Way, Kevin Faustino, Obie Fernandez](https://www.safaribooksonline.com/library/view/the-rails-5/9780134657691/)
@@ -26,7 +26,7 @@ Order | Resource
 
 Once you feel confortable enough with Ruby on Rails, you should complete the following project:
 
-## TODO App
+### TODO App
 
 Yo should develop a TODO App that includes the following features
 

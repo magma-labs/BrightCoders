@@ -23,7 +23,7 @@ Once you feel confortable enough with Ruby, you should complete the following pr
 
 
 Num | Mode | Description 
------ | ---- |
+----- | ---- | ---- 
 1 | Individual | [Tic Tac Toe](https://gist.github.com/vicmaster/56bda5ba51e87a39682c17de36732719)
 2 | Individual | [Conway's game of life](http://web.stanford.edu/~cdebs/GameOfLife/)
 3 | Group | A document or blogpost describing the process for writting a Ruby Gem

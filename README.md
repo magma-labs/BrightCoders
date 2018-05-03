@@ -29,9 +29,9 @@ Module | Duration | Topic
 
 ## Cohorts
 
-Num | Chohort | MH Sudents
------ | ---- | ----
-1 | FEB 2018 | 5
+Num | Chohort | MH Sudents | MH Mentors
+----- | ---- | ---- | ----
+1 | FEB 2018 | 5 | 6
 
 ## Calendar
      

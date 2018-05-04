@@ -2,7 +2,7 @@
 
 ## Hackers
 
- | Name | Institution
+ Num | Name | Institution
 ----- | ---- | ----
 01 | Ismael Villavicencio Jacobo | Tecnológico de Colima
 02 | Héctor Miguel Rodríguez Muñíz | Universidad de Colima
@@ -11,7 +11,7 @@
 05 | Saúl Rubio Guerrero | Tecnológico de Colima
 
 ## Mentors
- | Name | 
+ Num | Name | 
 ----- | ---- | ---- 
 01 | Juan Carlos Ruíz | Juan Carlos
 02 | Alberto Mendoza | Albert

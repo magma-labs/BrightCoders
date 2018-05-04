@@ -11,7 +11,7 @@
 05 | Saúl Rubio Guerrero | Tecnológico de Colima
 
 ## Mentors
- Num | Name |  | Area
+ Num | Name | -  | Area
 ----- | ---- | ---- 
 01 | Juan Carlos Ruíz | Juan Carlos | Engineering
 02 | Alberto Mendoza | Albert | Engineering

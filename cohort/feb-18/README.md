@@ -11,13 +11,13 @@
 05 | Saúl Rubio Guerrero | Tecnológico de Colima
 
 ## Mentors
- Num | Name | -
+ Num | Name |  | Area
 ----- | ---- | ---- 
-01 | Juan Carlos Ruíz | Juan Carlos
-02 | Alberto Mendoza | Albert
-03 | José Trinidad Espinoza | Trino
-04 | José Rogelio Alatorre González | Roger
-05 | Alan Maciel | Alan
+01 | Juan Carlos Ruíz | Juan Carlos | Engineering
+02 | Alberto Mendoza | Albert | Engineering
+03 | José Trinidad Espinoza | Trino | Engineering
+04 | José Rogelio Alatorre González | Roger | Engineering
+05 | Alan Maciel | Alan | Project Management
 
 ## Program
 

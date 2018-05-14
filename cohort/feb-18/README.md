@@ -41,7 +41,7 @@ Num | Module | W0 | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12
 01 | Frontend programming | | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-01) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/blob/master/module-01/week-02) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-01/week-03) | |  |  | | |  |  | | |  | | | |
 02 | Building a storefront using shopify | | | |  | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-01) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-02) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-03)  | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-02/week-04) | |  |  | | |  |  | | 
 03 | Ruby Programming |  |  | | |  |  | | | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-03) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-03)  | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-03) | [:white_circle:](https://github.com/magma-labs/MagmaHackers/tree/master/module-03) |  |  | | |
-04 | Ruby on Rails Programming |  |  | | |  |  | | |  ||  | | [:white_circle:]() | [:large_blue_circle:() |[:white_circle:]() | |
+04 | Ruby on Rails Programming |  |  | | |  |  | | |  ||  | | [:white_circle:]() | [:large_blue_circle:]() |[:white_circle:]() | |
 05 | Deliverables |  |  | | |  |  | | |  ||  | | [Ruby](https://github.com/magma-labs/MagmaHackers/blob/master/topics/ruby-intro.md) |  | [RoR](https://github.com/magma-labs/MagmaHackers/blob/master/topics/ruby-on-rails.md) 
 
 

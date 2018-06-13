@@ -18,3 +18,4 @@ To assign them to a project so they can learn about everything that is required 
 Num | Chohort | MH Sudents | MH Mentors
 ----- | ---- | ---- | ----
 1 | [FEB 2018](https://github.com/magma-labs/MagmaHackers/tree/master/cohort/feb-18) | 5 | 5
+2 | [AGO 2018](https://github.com/magma-labs/MagmaHackers/tree/master/cohort/ago-18) | 5 | 5

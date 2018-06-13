@@ -86,3 +86,7 @@
 * [The stepdown rule](http://tidyjava.com/stepdown-rule/)
 * [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0&list=PLyAFCmDPAMKYYWIel7jwHFRN62lNoacd3&t=24s&index=2)
 
+# SQL
+
+* [SQL Kata](https://www.codewars.com/collections/sql-kata)
+* [SQL for beginners](https://www.codewars.com/collections/sql-for-beginners)

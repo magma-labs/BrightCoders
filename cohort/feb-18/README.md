@@ -3,7 +3,7 @@
 ![MagmaHackers Graduates](../../imgs/feb18/mh-graduates-feb18.jpg)
 ![MagmaHackers Graduates](../../imgs/feb18/mh-graduates-mentors-feb18.jpg)
 
-## RelevantDates
+## Relevant Dates
 
  Date| Event 
 ----- | ---- 
@@ -40,6 +40,16 @@ Module | Duration | Topic
 02 | 4 Weeks | [Building a Storefront using Shopify](https://github.com/magma-labs/MagmaHackers/tree/master/module-02)
 03 | 4 Weeks | [Ruby programming](https://github.com/magma-labs/MagmaHackers/tree/master/module-03)
 04 | 3 Weeks | [Ruby on Rails programming](https://github.com/magma-labs/MagmaHackers/tree/master/module-03)
+
+## Results
+
+ Num | Name | Institution
+----- | ---- | ----
+01 | Ismael Villavicencio Jacobo | Continued studying a master program
+02 | Héctor Miguel Rodríguez Muñíz | tbd
+03 | Jaime Loyola Rangel | MagmaLabs
+04 | Luis Armando Durán Vega | MagmaLabs
+05 | Saúl Rubio Guerrero | Received an invitation for participating in a project (CEO)
 
 ## Resources
 

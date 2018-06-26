@@ -1,20 +1,8 @@
-# MagmaHackers AUGUST 2018
+# MagmaHackers August 2018
 
 ![MagmaHackers Logo](../../imgs/mh-logo.png)
 
-## Bootcamp
+## Content
 
-## Hackers
-
-Num | Name  | Location  | Institution
--   | -     | -         | -
-
-
-## Mentors
-Num | Name  | x | Location  | Area 
--   | -     | - | -         | -   
-
-## Program
-Module | Duration | Topic
------ | ---- | ----
-
+* Bootcamp
+* Full Program

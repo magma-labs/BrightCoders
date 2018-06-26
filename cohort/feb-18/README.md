@@ -1,5 +1,17 @@
 # MagmaHackers FEBRUARY 2018
 
+![MagmaHackers Graduates](../../imgs/feb18/mh-graduates-feb18.jpg)
+![MagmaHackers Graduates](../../imgs/feb18/mh-graduates-mentors-feb18.jpg)
+
+## RelevantDates
+
+ Date| Event 
+----- | ---- 
+8th Feb - 8th Jun | Program
+9th - 12th Jun | Hackathon
+21st Jun | Graduation ceremony
+
+
 ## Hackers
 
  Num | Name | Institution

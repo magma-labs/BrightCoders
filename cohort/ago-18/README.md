@@ -6,7 +6,7 @@
 
  Date| Event 
 ----- | ---- 
-17th May - 22nd Jun | Call for hackers
+17th May - 22nd Jun | [Call for hackers](call/README.md)
 11th - 12th Jun | Bootcamp
 
 

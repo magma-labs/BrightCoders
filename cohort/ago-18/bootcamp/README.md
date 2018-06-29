@@ -2,7 +2,7 @@
 
 ## Bootcamp
 
-## Skills and Values to look out for
+## Skills and values to look out for
 Num     | Skill or value       
 ----    |---
 1       | English level
@@ -15,7 +15,7 @@ Num     | Skill or value
 ## Agenda
 ### __Day 1__
 Num     | Name          | Activities    | Objective | Duration  | Language
--       | -             | -             | -         | -         |  -
+---     |---            |---            |---        |---        |---
 1       | Ice breaker   | Divide participants in groups and ask them to order alphabetically by name    | Candidates and mentors get to know each other | 20 min | Spanish
 2       | About MagmaHackers | A presentation of MagmaLabs and the MagmaHackers program | To introduce MagmaLabs & the MagmaHackers program and resolve candidates questions | 30 min | Spanish
 
@@ -25,7 +25,7 @@ Num     | Name          | Activities    | Objective | Duration  | Language
 
 ### __Day 2__
 Num     | Name          | Activities    | Objective | Duration  | Language
--       | -             | -             | -         | -         |  -
+---     |---            |---            |---        |---        |---
 
 
 ### Assignments

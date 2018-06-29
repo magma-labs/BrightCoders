@@ -1,4 +1,15 @@
-# Bootcamp
+
+## Bootcamp
+
+## Skills and Values to look out for
+Num     | Name       
+-       | -              
+1       | English level
+2       | Cultural fit
+3       | Technical (Coding, programming, logical thinking)
+4       | Growth Mindset
+5       | Teamwork
+6       | Passion
 
 ## Agenda
 ### __Day 1__

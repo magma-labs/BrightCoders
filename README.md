@@ -1,7 +1,7 @@
 # MagmaHackers
-Magma Hackers is an agile, mentored program, linked to the industry and highly intensive that transforms talented recent graduates into industry-ready professionals by training them in cutting-edge technologies, tools and methodologies that leading software development companies are using.
+MagmaHackers is an intensive mentoring program designed to train talented software developers who adopt  best programming practices, working with agile methodologies,  having team work experience, developing projects in real environments, and who are passionate and contribute to the community.
 
-## Who is it for?
+## Entry requirements
 Last semester students who will make their internship and have  part or full time availability.
 Last year students who are still students and have part time availability twice or three times per week
 

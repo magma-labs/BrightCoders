@@ -1,18 +1,21 @@
 # MagmaHackers August 2018
 
-## Bootcamp
+# Selection process
 
-## Skills and values to look out for
-Num     | Skill or value       
-----    |---
-1       | English level
-2       | Cultural fit
-3       | Technical (Coding, programming, logical thinking)
-4       | Growth Mindset
-5       | Teamwork
-6       | Passion
+## Required skills
+Num     | Skill     | Description  
+----    |---        |---
+1       | English level         | A1 (Breakthrough)
+2       | Cultural fit          | 
+3       | Technical             | Understanding of algorithms and data structures, 
+4       | Willingness to learn  | Desire, readiness and passion to keep learning
 
-## Agenda
+## Step 1 Registration 
+Provided information is revised and those candidates that do not satisfy entry requirements are notified.
+
+## Step 2 Bootcamp
+
+### Agenda
 ### __Day 1__
 Num     | Name          | Activities    | Objective | Duration  | Language
 ---     |---            |---            |---        |---        |---

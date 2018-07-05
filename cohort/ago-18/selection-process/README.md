@@ -5,9 +5,9 @@
 ## Required skills
 Num     | Skill     | Description  
 ----    |---        |---
-1       | English level         | A1 (Breakthrough)
+1       | English               | Level A1: Breakthrough
 2       | Cultural fit          | 
-3       | Technical             | Understanding of algorithms and data structures, 
+3       | Technical             | Intermediate web programing level (HTML+CSS+JS)and ability to analyze and resolve problems based on logical deductions and expressing them using a programming language
 4       | Willingness to learn  | Desire, readiness and passion to keep learning
 
 ## Step 1 Registration 

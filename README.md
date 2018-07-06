@@ -2,19 +2,33 @@
 MagmaHackers is an intensive mentoring program designed to train talented software developers who adopt  best programming practices, working with agile methodologies,  having team work experience, developing projects in real environments, and who are passionate and contribute to the community.
 
 ## Entry requirements
-Last semester students who will make their internship and have  part or full time availability.
-Last year students who are still students and have part time availability twice or three times per week
+To be eligible you must meet the following requirements:
 
-## What is it for?
-For transforming recent graduates into industry-ready engineers that can in a short period of time or immediately be hired by leading software companies.
+* Requirements applicable to all candidates
+    * Age between 18 and 35 years
+    * Basic-Intermediate english level
+    * Intermediate web programing level using HTML+CSS+JS
+    * Ability to analyze and resolve problems based on logical deductions and expressing them using at least one programming language
+    * Minimum of 6 hours daily availability weekdays at one of our offices (Aguascalientes, Colima or León)
+    * Willingness to learn
+    * Good team player
+    * Heart for contributing and giving back to the community
+    * Personal laptop
+    * Complete the selection process
 
-## What is it required for transforming them into industry-ready engineers?
-To train them on the technologies, tools, and methodologies required for fitting to a given job position (e.g. front end developer, ruby on rails programmer, react-native programmer, etc.)
-To give them exposure to real-world working scenarios, so they can easily incorporate to any software company.
-To assign them to a project so they can learn about everything that is required for developing it from the beginning to the end.
+* Additional requirements applicable to students
+    * Student of a Software Engineering program or similar, preferably in the last year of studies.
+* Additional requirements applicable to graduates
+    * At most 3 years of graduates
+    * Currently not working
+* Additional requirements applicable to non-students
+    * Having an academic degree is NOT a requirement, thus there are no additional requirements.
+
+## FAQ
+#### Can I accredit my professional practice?
+Yes, we will provide you with all the documentation you require
 
 ## Cohorts
-
 Num | Chohort | MH Sudents | MH Mentors
 ----- | ---- | ---- | ----
 1 | [FEB 2018](https://github.com/magma-labs/MagmaHackers/tree/master/cohort/feb-18) | 5 | 5

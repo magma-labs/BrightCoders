@@ -29,7 +29,7 @@ To be eligible you must meet the following requirements:
 Yes, we will provide you with all the documentation you require
 
 ## Cohorts
-Num | Chohort | MH Sudents | MH Mentors
+Num | Class | MH Sudents | MH Mentors
 ----- | ---- | ---- | ----
 1 | [FEB 2018](https://github.com/magma-labs/MagmaHackers/tree/master/cohort/feb-18) | 5 | 5
 2 | [AGO 2018](https://github.com/magma-labs/MagmaHackers/tree/master/cohort/ago-18) | 5 | 5

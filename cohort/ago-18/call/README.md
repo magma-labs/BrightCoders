@@ -1,4 +1,4 @@
-# MagmaHackers August 2018
+# MagmaHackers Class August 2018
 
 ## Call for Hackers
 

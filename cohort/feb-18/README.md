@@ -1,4 +1,4 @@
-# MagmaHackers FEBRUARY 2018
+# MagmaHackers Class FEBRUARY 2018
 
 ![MagmaHackers Graduates](../../imgs/feb18/mh-graduates-feb18.jpg)
 ![MagmaHackers Graduates](../../imgs/feb18/mh-graduates-mentors-feb18.jpg)

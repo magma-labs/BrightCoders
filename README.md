@@ -1,5 +1,16 @@
 # MagmaHackers
+![MagmaHackers Logo](imgs/mh-logo.png)
+
+# _The top-talent development program crafted by MagmaLabs_
+
+
+## _Developing and promoting Mexican talent_
+
 MagmaHackers is an intensive mentoring program designed to train talented software developers who adopt  best programming practices, working with agile methodologies,  having team work experience, developing projects in real environments, and who are passionate and contribute to the community.
+
+## Apply
+
+## Hire a Graduate
 
 ## Entry requirements
 To be eligible you must meet the following requirements:

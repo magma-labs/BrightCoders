@@ -1,5 +1,4 @@
 # MagmaHackers August 2018
-
 # Selection process
 
 ## Required skills
@@ -10,10 +9,10 @@ Num     | Skill     | Description
 3       | Technical             | Intermediate web programing level (HTML+CSS+JS)and ability to analyze and resolve problems based on logical deductions and expressing them using a programming language
 4       | Willingness to learn  | Desire, readiness and passion to keep learning
 
-## Step 1 Registration 
-Provided information is revised and those candidates that do not satisfy entry requirements are notified.
+## Step 1 Profile review
+Profile of candidates is reviewed and only those who meet the requirements stated on the entry profile continue in the selection process.
 
-## Step 2 Bootcamp
+## Step 2 HackDay
 
 ### Agenda
 ### __Day 1__

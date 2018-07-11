@@ -30,8 +30,7 @@ To be eligible you must meet the following requirements:
 * Additional requirements applicable to students
     * Student of a Software Engineering program or similar, preferably in the last year of studies.
 * Additional requirements applicable to graduates
-    * At most 3 years of graduates
-    * Currently not working
+    * At most 5 years of graduate
 * Additional requirements applicable to non-students
     * Having an academic degree is NOT a requirement, thus there are no additional requirements.
 

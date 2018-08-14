@@ -29,7 +29,7 @@ Num | Name | Code in the Dark | Game of Life
 7 | Christopher Emmanuelle Velázquez Castillo | [Yes](colima/ChristopherEmmanuelleVelázquezCastillo)
 8 | Cristian Eduardo Ortiz Ochoa | [Yes](colima/CristianEduardoOrtizOchoa)
 9 | Diana Elena Pinto Apolinar | [Yes](colima/DianaElenaPintoApolinar)
-10 | Dzoara Samantha Bello Morales | [Yes](colima/DzoaraSamanthaBelloMorales) [Extra](https://github.com/SamBelmor/website-magma-exercise) | [Yes](https://github.com/SamBelmor/GameOfLife)
+10 | Dzoara Samantha Bello Morales | [Yes](colima/DzoaraSamanthaBelloMorales), [extra](https://github.com/SamBelmor/website-magma-exercise) | [Yes](https://github.com/SamBelmor/GameOfLife)
 11 | Eduardo David Jiménez Cisneros | [Yes](colima/EduardoDavidJiménezCisneros)
 12 | Eduardo Javier Candanedo Contreras | [Yes](colima/EduardoJavierCandanedoContreras)
 13 | Eduardo Martinez Santoyo | [Yes](colima/EduardoMartinezSantoyo)
@@ -38,7 +38,7 @@ Num | Name | Code in the Dark | Game of Life
 16 | Fernando Amezcua Alcantar | [Yes](colima/FernandoAmezcuaAlcantar)
 17 | Graciela Dayan Blas Dolores | No
 18 | Héctor Hernández Anguiano | [Yes](colima/HéctorHernándezAnguiano)
-19 | Ignacio Contreras Contreras | [Yes](colima/IgnacioContrerasContreras) | [Yes](https://github.com/IgnacioCon/conways-game-of-life) [deploy](https://ignaciocon.github.io/conways-game-of-life/)
+19 | Ignacio Contreras Contreras | [Yes](colima/IgnacioContrerasContreras) | [Yes](https://github.com/IgnacioCon/conways-game-of-life), [deploy](https://ignaciocon.github.io/conways-game-of-life/)
 20 | Jesús Alejandro Hernández Mancilla | [Yes](colima/JesúsAlejandroHernándezMancilla)
 21 | Jesús Macedo Vazquez | No
 22 | Jose Alfredo Cortes Quiroz | [Yes](colima/JoseAlfredoCortesQuiroz)
@@ -46,7 +46,7 @@ Num | Name | Code in the Dark | Game of Life
 24 | José Carlos Anaya Chávez | [Yes](colima/JoséCarlosAnayaChávez) | [Yes](https://github.com/archisss/CONWAY-Game-of-Life-PHP)
 25 | Jose Israel Rincon Garibaldi | [Yes](colima/JoseIsraelRinconGaribaldi) | [Yes](https://github.com/jisrag/juegoDeLaVida)
 26 | José Luis Villa Serratos | No
-27 | Luis German Ozuna Lagarda | [Yes](colima/LuisGermanOzunaLagarda) [2](https://github.com/LuisOzParr/MagmaClon) | [Yes](https://github.com/LuisOzParr/TheGameOfLife)
+27 | Luis German Ozuna Lagarda | [Yes](colima/LuisGermanOzunaLagarda), [extra](https://github.com/LuisOzParr/MagmaClon) | [Yes](https://github.com/LuisOzParr/TheGameOfLife)
 28 | Mariana Nagelly Duarte Naranjo | No
 29 | Mildred Nataly Silva Méndez | [Yes](colima/MildredNatalySilvaMéndez)
 30 | Moises Alejandro Zamora Orozco | [Yes](colima/MoisesAlejandroZamoraOrozco)

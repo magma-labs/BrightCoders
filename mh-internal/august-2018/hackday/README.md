@@ -4,7 +4,7 @@
 
 Num | Name | Code in the Dark | Game of Life | GOF Date
 ----- | ---- | ---- | ---- | ----
-1 | Aldo Ivan Jimenez Portillo | [Yes](aguascalientes/aguascalientes/AldoIvanJimenezPortillo) 
+1 | Aldo Ivan Jimenez Portillo | [Yes](aguascalientes/AldoIvanJimenezPortillo) 
 2 | Bryan Gerardo Cruz Gomez
 3 | Diana Carolina Bernal Tavares 
 4 | Francisco Javier Segovia Baez

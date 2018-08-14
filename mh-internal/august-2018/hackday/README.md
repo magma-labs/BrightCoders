@@ -18,13 +18,13 @@ Num | Name | Code in the Dark | Game of Life | GOF Date
 
 ## Colima
 
-Num | Name | Code in the Dark | Game of Life | GOF Date
------ | ---- | ---- | ---- | ----
-1 | Alvaro Padilla Mendoza | [Yes](colima/AldoIvanJimenezPortillo) 
+Num | Name | Code in the Dark | Game of Life 
+----- | ---- | ---- | ---- 
+1 | Alvaro Padilla Mendoza | [Yes](colima/Alvaro Padilla Mendoza) 
 2 | Andrea Olarte Vargas | [Yes](colima/AndreaOlarteVargas)
 3 | Angel Samuel Elit Galvan Avila | [Yes](colima/AngelSamuelElitGalvanAvila)
 4 | Antonio Moreno Jauregui | [Yes](colima/AntonioMorenoJauregui)
-5 | Carlos Alberto Vera Villegas | [Yes](colima/CarlosAlbertoVeraVillegas)
+5 | Carlos Alberto Vera Villegas | [Yes](https://github.com/kikiondo/magmalabs) | [Yes](https://github.com/kikiondo/magmalabs) 
 6 | Carlos Alfredo Diaz Estrada | [Yes](colima/CarlosAlfredoDiazEstrada)
 7 | Christopher Emmanuelle Velázquez Castillo | [Yes](colima/ChristopherEmmanuelleVelázquezCastillo)
 8 | Cristian Eduardo Ortiz Ochoa | [Yes](colima/CristianEduardoOrtizOchoa)
@@ -40,7 +40,7 @@ Num | Name | Code in the Dark | Game of Life | GOF Date
 18 | Héctor Hernández Anguiano | [Yes](colima/HéctorHernándezAnguiano)
 19 | Ignacio Contreras Contreras | [Yes](colima/IgnacioContrerasContreras)
 20 | Jesús Alejandro Hernández Mancilla | [Yes](colima/JesúsAlejandroHernándezMancilla)
-21 | Jesús Macedo Vazquez | [Yes](colima/JesúsMacedoVazquez)
+21 | Jesús Macedo Vazquez | No
 22 | Jose Alfredo Cortes Quiroz | [Yes](colima/JoseAlfredoCortesQuiroz)
 23 | José Antonio Madera González | No
 24 | José Carlos Anaya Chávez | [Yes](colima/JoséCarlosAnayaChávez)

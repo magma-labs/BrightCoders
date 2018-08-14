@@ -7,15 +7,13 @@ Num | Name | Code in the Dark | Game of Life | GOF Date
 1 | Aldo Ivan Jimenez Portillo | [Yes](aguascalientes/AldoIvanJimenezPortillo) 
 2 | Bryan Gerardo Cruz Gomez | [Yes](aguascalientes/BryanGerardoCruzGomez)
 3 | Diana Carolina Bernal Tavares | [Yes](aguascalientes/DianaCarolinaBernalTavares)
-4 | Francisco Javier Segovia Baez | [Yes](aguascalientes/FranciscoJavierSegoviaBaez)
 5 | Juan Manuel Lopez Santana | [Yes](aguascalientes/JuanManuelLopezSantana)
 6 | Luis Antonio Aguilar Rosales | [Yes](aguascalientes/LuisAntonioAguilarRosales)
 7 | Luis Daniel Parga Cruz | [Yes](aguascalientes/LuisDanielPargaCruz)
-8 | Luis Guadalupe de la Rosa Solano | [Yes](aguascalientes/LuisGuadalupedelaRosaSolano)
 9 | Manuel Hernández Gutiérrez | [Yes](aguascalientes/ManuelHernándezGutiérrez)
 10 | Tania Muñoz Jiménez | [Yes](aguascalientes/TaniaMuñozJiménez)
 11 | Verónica Montserrat Martínez Lona | [Yes](aguascalientes/VerónicaMontserratMartínezLona)
-12 | Wendy Suleyma Gómez Ruiz | [Yes](aguascalientes/WendySuleymaGómezRuiz)
+12 | Wendy Suleyma Gómez Ruiz | [Yes](aguascalientes/WendySuleymaGómezRuiz)
 13 | Yesica Yajaira Serna Vidales | [Yes](aguascalientes/YesicaYajairaSernaVidales)
 
 ## Colima

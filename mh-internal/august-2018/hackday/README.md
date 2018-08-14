@@ -20,42 +20,42 @@ Num | Name | Code in the Dark | Game of Life | GOF Date
 
 Num | Name | Code in the Dark | Game of Life | GOF Date
 ----- | ---- | ---- | ---- | ----
-1 | Alvaro Padilla Mendoza
-2 | Andrea Olarte Vargas
-3 | Angel Samuel Elit Galvan Avila
-4 | Antonio Moreno Jauregui
-5 | Carlos Alberto Vera Villegas
-6 | Carlos Alfredo Diaz Estrada
-7 | Christopher Emmanuelle Velázquez Castillo
-8 | Cristian Eduardo Ortiz Ochoa
-9 | Diana Elena Pinto Apolinar
-10 | Dzoara Samantha Bello Morales
-11 | Eduardo David Jiménez Cisneros
-12 | Eduardo Javier Candanedo Contreras
-13 | Eduardo Martinez Santoyo
-14 | Ernesto Velasco González
-15 | Esmeralda Elizabeth Santoyo Morales
-16 | Fernando Amezcua Alcantar
-17 | Graciela Dayan Blas Dolores
-18 | Héctor Hernández Anguiano
-19 | Ignacio Contreras Contreras
-20 | Jesús Alejandro Hernández Mancilla
-21 | Jesús Macedo Vazquez
-22 | Jose Alfredo Cortes Quiroz
-23 | José Antonio Madera González
-24 | José Carlos Anaya Chávez
-25 | Jose Israel Rincon Garibaldi
-26 | José Luis Villa Serratos
-27 | Luis German Ozuna Lagarda
-28 | Mariana Nagelly Duarte Naranjo
-29 | Mildred Nataly Silva Méndez
-30 | Moises Alejandro Zamora Orozco
-31 | NERY ALEJANDRO DENIZ GALVEZ
-32 | Noel Gabriel Camacho Cardenas
-33 | Noelia Figueroa López
-34 | Pablo Eustacio Ramirez Trujillo
-35 | Ricardo Rafael Villagrana Larios
-36 | Williams Emmanuel Estrada Rodriguez
+1 | Alvaro Padilla Mendoza | [Yes](colima/AldoIvanJimenezPortillo) 
+2 | Andrea Olarte Vargas | [Yes](colima/AndreaOlarteVargas)
+3 | Angel Samuel Elit Galvan Avila | [Yes](colima/AngelSamuelElitGalvanAvila)
+4 | Antonio Moreno Jauregui | [Yes](colima/AntonioMorenoJauregui)
+5 | Carlos Alberto Vera Villegas | [Yes](colima/CarlosAlbertoVeraVillegas)
+6 | Carlos Alfredo Diaz Estrada | [Yes](colima/CarlosAlfredoDiazEstrada)
+7 | Christopher Emmanuelle Velázquez Castillo | [Yes](colima/ChristopherEmmanuelleVelázquezCastillo)
+8 | Cristian Eduardo Ortiz Ochoa | [Yes](colima/CristianEduardoOrtizOchoa)
+9 | Diana Elena Pinto Apolinar | [Yes](colima/DianaElenaPintoApolinar)
+10 | Dzoara Samantha Bello Morales | [Yes](colima/DzoaraSamanthaBelloMorales)
+11 | Eduardo David Jiménez Cisneros | [Yes](colima/EduardoDavidJiménezCisneros)
+12 | Eduardo Javier Candanedo Contreras | [Yes](colima/EduardoJavierCandanedoContreras)
+13 | Eduardo Martinez Santoyo | [Yes](colima/EduardoMartinezSantoyo)
+14 | Ernesto Velasco González | [Yes](colima/ErnestoVelascoGonzález)
+15 | Esmeralda Elizabeth Santoyo Morales | [Yes](colima/EsmeraldaElizabethSantoyoMorales)
+16 | Fernando Amezcua Alcantar | [Yes](colima/FernandoAmezcuaAlcantar)
+17 | Graciela Dayan Blas Dolores | No
+18 | Héctor Hernández Anguiano | [Yes](colima/HéctorHernándezAnguiano)
+19 | Ignacio Contreras Contreras | [Yes](colima/IgnacioContrerasContreras)
+20 | Jesús Alejandro Hernández Mancilla | [Yes](colima/JesúsAlejandroHernándezMancilla)
+21 | Jesús Macedo Vazquez | [Yes](colima/JesúsMacedoVazquez)
+22 | Jose Alfredo Cortes Quiroz | [Yes](colima/JoseAlfredoCortesQuiroz)
+23 | José Antonio Madera González | No
+24 | José Carlos Anaya Chávez | [Yes](colima/JoséCarlosAnayaChávez)
+25 | Jose Israel Rincon Garibaldi | [Yes](colima/JoseIsraelRinconGaribaldi)
+26 | José Luis Villa Serratos | No
+27 | Luis German Ozuna Lagarda | [Yes](colima/LuisGermanOzunaLagarda)
+28 | Mariana Nagelly Duarte Naranjo | No
+29 | Mildred Nataly Silva Méndez | [Yes](colima/MildredNatalySilvaMéndez)
+30 | Moises Alejandro Zamora Orozco | [Yes](colima/MoisesAlejandroZamoraOrozco)
+31 | NERY ALEJANDRO DENIZ GALVEZ | No
+32 | Noel Gabriel Camacho Cardenas | [Yes](colima/NoelGabrielCamachoCardenas)
+33 | Noelia Figueroa López | No
+34 | Pablo Eustacio Ramirez Trujillo | [Yes](colima/PabloEustacioRamirezTrujillo)
+35 | Ricardo Rafael Villagrana Larios | [Yes](colima/RicardoRafaelVillagranaLarios)
+36 | Williams Emmanuel Estrada Rodriguez | [Yes](colima/WilliamsEmmanuelEstradaRodriguez)
 
 ## León
 
@@ -63,4 +63,4 @@ Num | Name | Code in the Dark | Game of Life | GOF Date
 ----- | ---- | ---- | ---- | ----
 1 | Eduardo García Hernández
 2 | Edwin Miguel Lara Espinoza
-3 | Ramírez Ochoa Fernanda Monserrat1 
+3 | Ramírez Ochoa Fernanda Monserrat

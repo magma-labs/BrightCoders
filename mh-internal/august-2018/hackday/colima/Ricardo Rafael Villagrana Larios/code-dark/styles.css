@@ -1,0 +1,23 @@
+body { 
+    background-image: url('./assets/background.jpg');
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+    .firebrick {color: #f44030;}
+.logo {
+    height: 5em;
+}
+
+.nav-bar {display: flex;}
+
+.menu-list{
+    flex-direction: column;
+    display: inherit;
+    right: 0;
+    position: absolute;
+}
+.menu-list li {
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+}

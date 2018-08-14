@@ -1,0 +1,35 @@
+/*
+requirements
+magma labs icon at left
+5 last one > contact red
+2 red lines, h1
+2 2 __ in each line
+4 with a point red at left
+1 image as footer
+
+*/
+body {
+  /*background-image: url("hero.jpg");*/
+  background-image: url("hero.jpg");
+}
+#subject {
+  color: #F94847;
+}
+
+/*
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Morbi efficitur, turpis sed consequat auctor, turpis eros efficitur felis,
+non aliquam leo urna sed ligula. Vivamus id blandit ex, a sollicitudin nulla.
+Mauris volutpat fermentum nulla, a consectetur odio auctor commodo.
+Pellentesque ornare tristique felis quis luctus. Praesent metus tellus,
+viverra id nibh eu, aliquam euismod mi. Aliquam tristique vel ligula a ultrices.
+Nam gravida sapien dolor, eu scelerisque sem laoreet a.
+Sed pellentesque purus molestie lectus mollis, lacinia lobortis lacus laoreet.
+Fusce sit amet sem arcu. Maecenas fermentum justo nisl, eget iaculis magna
+ornare ac. Etiam semper magna odio, a mattis lorem semper non. Nulla in diam
+vulputate, sollicitudin nisl in, luctus ex. Curabitur pellentesque urna erat.
+Aliquam pretium purus sapien, sed commodo urna pulvinar sit amet.
+Curabitur lacinia feugiat urna eu pharetra.
+
+
+*/

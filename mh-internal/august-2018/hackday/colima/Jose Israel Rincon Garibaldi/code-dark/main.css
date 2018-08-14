@@ -1,0 +1,22 @@
+body{
+       background-image: fondo.jpg;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+
+h2{
+    text-align: center;
+    color: antiquewhite;
+}
+h3{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

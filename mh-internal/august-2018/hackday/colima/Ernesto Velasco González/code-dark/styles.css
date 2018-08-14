@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+    
+    color: white;
+}
+.menu {
+    position: absolute;
+    right: 0.5em;
+}
+.menu li {
+    display: inline;
+}
+.menu li a {
+    color: white;
+    text-decoration: -moz-none;
+}
+.content {
+    padding: 15em;
+    text-align: center;
+    font-size: 20px;
+}
+.menu_item a{
+    color: crimson;
+}
+.primary {
+    color: crimson;
+}
+.list ul {
+    display: inline;
+    text-decoration-style: dashed;
+}

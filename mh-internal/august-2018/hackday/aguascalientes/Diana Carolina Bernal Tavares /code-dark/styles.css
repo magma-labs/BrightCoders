@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background: #ccc;
+}
+
+header.main {
+	background-image: url('mark-asthoff-19910-unsplash.jpg');
+	margin-bottom: 60px;
+	width:100%;
+}
+
+header ul {
+	overflow: hidden;
+}
+
+header nav ul{
+	display: block;
+	margin: 20px;
+	padding: 10px;
+	float: right;
+}
+
+header nav ul li {
+	display: inline-block;
+	margin:20px;s
+}
+
+.icons .container .row .logos {
+	display: block;
+	padding: 10px;
+	margin-top: 15px;
+}
+

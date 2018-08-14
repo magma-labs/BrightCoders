@@ -1,0 +1,17 @@
+body {
+  width: 80%;
+  margin: auto; }
+
+.navegador {
+  background-image: url("/assets/ciudad.jpg"); }
+  .navegador nav {
+    flex-direction: row;
+    text-align: right;
+    font-size: 22px; }
+    .navegador nav a {
+      text-decoration: none; }
+
+.botones a {
+  text-decoration: none; }
+
+/*# sourceMappingURL=estilo.css.map */

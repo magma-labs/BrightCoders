@@ -1,0 +1,30 @@
+.botonesTop {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    position: left;
+} 
+.tLeft {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    position: right;
+}
+.container{
+    text-align:center
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.center{
+   display:inline-block
+}
+#parrafo{
+    text-align: center;
+}
+.botones{
+    position: left;
+}

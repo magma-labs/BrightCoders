@@ -1,0 +1,22 @@
+.header img {
+  float: left;
+  height: 70px;;
+}
+
+.header li{
+  float: right;
+}
+
+.header ul li {
+  list-style: none;
+  float: right;
+  margin-right: 15px;
+}
+
+.red {
+  color: red;
+}
+
+.body {
+  margin-top: 15px;
+}

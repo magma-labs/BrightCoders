@@ -20,7 +20,7 @@ Num | Name | Code in the Dark | Game of Life | GOF Date
 
 Num | Name | Code in the Dark | Game of Life 
 ----- | ---- | ---- | ---- 
-1 | Alvaro Padilla Mendoza | [Yes](colima/Alvaro Padilla Mendoza) 
+1 | Alvaro Padilla Mendoza | [Yes](colima/AlvaroPadillaMendoza)
 2 | Andrea Olarte Vargas | [Yes](colima/AndreaOlarteVargas)
 3 | Angel Samuel Elit Galvan Avila | [Yes](colima/AngelSamuelElitGalvanAvila)
 4 | Antonio Moreno Jauregui | [Yes](colima/AntonioMorenoJauregui)

@@ -7,14 +7,14 @@ Num | Name | Code in the Dark | Game of Life | GOF Date
 1 | Aldo Ivan Jimenez Portillo | [Yes](aguascalientes/AldoIvanJimenezPortillo) 
 2 | Bryan Gerardo Cruz Gomez | [Yes](aguascalientes/BryanGerardoCruzGomez)
 3 | Diana Carolina Bernal Tavares | [Yes](aguascalientes/DianaCarolinaBernalTavares)
-5 | Juan Manuel Lopez Santana | [Yes](aguascalientes/JuanManuelLopezSantana)
-6 | Luis Antonio Aguilar Rosales | [Yes](aguascalientes/LuisAntonioAguilarRosales)
-7 | Luis Daniel Parga Cruz | [Yes](aguascalientes/LuisDanielPargaCruz)
-9 | Manuel Hernández Gutiérrez | [Yes](aguascalientes/ManuelHernándezGutiérrez)
-10 | Tania Muñoz Jiménez | [Yes](aguascalientes/TaniaMuñozJiménez)
-11 | Verónica Montserrat Martínez Lona | [Yes](aguascalientes/VerónicaMontserratMartínezLona)
-12 | Wendy Suleyma Gómez Ruiz | [Yes](aguascalientes/WendySuleymaGómezRuiz)
-13 | Yesica Yajaira Serna Vidales | [Yes](aguascalientes/YesicaYajairaSernaVidales)
+4 | Juan Manuel Lopez Santana | [Yes](aguascalientes/JuanManuelLopezSantana)
+5 | Luis Antonio Aguilar Rosales | [Yes](aguascalientes/LuisAntonioAguilarRosales)
+6 | Luis Daniel Parga Cruz | [Yes](aguascalientes/LuisDanielPargaCruz)
+7 | Manuel Hernández Gutiérrez | [Yes](aguascalientes/ManuelHernándezGutiérrez)
+8 | Tania Muñoz Jiménez | [Yes](aguascalientes/TaniaMuñozJiménez)
+9 | Verónica Montserrat Martínez Lona | [Yes](aguascalientes/VerónicaMontserratMartínezLona)
+10 | Wendy Suleyma Gómez Ruiz | [Yes](aguascalientes/WendySuleymaGómezRuiz)
+11 | Yesica Yajaira Serna Vidales | [Yes](aguascalientes/YesicaYajairaSernaVidales)
 
 ## Colima
 

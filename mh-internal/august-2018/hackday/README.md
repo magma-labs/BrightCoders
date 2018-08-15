@@ -4,17 +4,17 @@
 
 Num | Name | Code in the Dark | Game of Life 
 ----- | ---- | ---- | ---- 
-1 | Aldo Ivan Jimenez Portillo | [Yes](aguascalientes/AldoIvanJimenezPortillo) 
-2 | Bryan Gerardo Cruz Gomez | [Yes](aguascalientes/BryanGerardoCruzGomez), [extra](https://github.com/Bryancg95/Code-in-the-dark)
-3 | Diana Carolina Bernal Tavares | [Yes](aguascalientes/DianaCarolinaBernalTavares)
-4 | Juan Manuel Lopez Santana | [Yes](aguascalientes/JuanManuelLopezSantana)
+1 | Aldo Ivan Jimenez Portillo | [Yes](aguascalientes/AldoIvanJimenezPortillo) | [Yes](aguascalientes/AldoIvanJimenezPortillo)
+2 | Bryan Gerardo Cruz Gomez | [Yes](aguascalientes/BryanGerardoCruzGomez), [extra](https://github.com/Bryancg95/Code-in-the-dark) | [Yes](aguascalientes/BryanGerardoCruzGomez)
+3 | Diana Carolina Bernal Tavares | [Yes](aguascalientes/DianaCarolinaBernalTavares) | [Yes](aguascalientes/DianaCarolinaBernalTavares)
+4 | Juan Manuel Lopez Santana | [Yes](aguascalientes/JuanManuelLopezSantana) | [Yes](aguascalientes/JuanManuelLopezSantana)
 5 | Luis Antonio Aguilar Rosales | [Yes](aguascalientes/LuisAntonioAguilarRosales)  [extra](https://github.com/ddxxtony/web-page) | [Yes](https://github.com/ddxxtony/game-of-life) 
 6 | Luis Daniel Parga Cruz | [Yes](aguascalientes/LuisDanielPargaCruz) | [Yes](https://github.com/DanielISC/Code-in-the-dark)
 7 | Manuel Hernández Gutiérrez | [Yes](aguascalientes/ManuelHernándezGutiérrez)
-8 | Tania Muñoz Jiménez | [Yes](aguascalientes/TaniaMuñozJiménez), [boomer](https://github.com/Taniuchis/Boomer)
-9 | Verónica Montserrat Martínez Lona | [Yes](aguascalientes/VerónicaMontserratMartínezLona)
-10 | Wendy Suleyma Gómez Ruiz | [Yes](aguascalientes/WendySuleymaGómezRuiz)
-11 | Yesica Yajaira Serna Vidales | [Yes](aguascalientes/YesicaYajairaSernaVidales) [extra](https://github.com/yesi-aracawa/htest/tree/html) |
+8 | Tania Muñoz Jiménez | [Yes](aguascalientes/TaniaMuñozJiménez), [boomer](https://github.com/Taniuchis/Boomer) | [Yes](aguascalientes/TaniaMuñozJiménez)
+9 | Verónica Montserrat Martínez Lona | [Yes](aguascalientes/VerónicaMontserratMartínezLona) | [Yes](aguascalientes/VerónicaMontserratMartínezLona)
+10 | Wendy Suleyma Gómez Ruiz | [Yes](aguascalientes/WendySuleymaGómezRuiz) | [Yes](aguascalientes/WendySuleymaGómezRuiz)
+11 | Yesica Yajaira Serna Vidales | [Yes](aguascalientes/YesicaYajairaSernaVidales), [extra](https://github.com/yesi-aracawa/htest/tree/html)  | [Yes](aguascalientes/YesicaYajairaSernaVidales)
 
 ## Colima
 

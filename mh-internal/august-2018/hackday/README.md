@@ -21,13 +21,13 @@ Num | Name | Code in the Dark | Game of Life
 Num | Name | Code in the Dark | Game of Life 
 ----- | ---- | ---- | ---- 
 1 | Alvaro Padilla Mendoza | [Yes](colima/AlvaroPadillaMendoza) | [Yes](https://github.com/varo-10/lifeGame)
-2 | Andrea Olarte Vargas | [Yes](colima/AndreaOlarteVargas) | pending
+2 | Andrea Olarte Vargas | [Yes](colima/AndreaOlarteVargas), [extra](https://github.com/AndreaOlarte/Front-end-MagmaLabs/) | [Yes](https://github.com/AndreaOlarte/gameOfLife) 
 3 | Angel Samuel Elit Galvan Avila | [Yes](colima/AngelSamuelElitGalvanAvila) | No
 4 | Antonio Moreno Jauregui | [Yes](colima/AntonioMorenoJauregui) | [Yes](https://bitbucket.org/antonmor/magmahackers/src/master/)
 5 | Carlos Alberto Vera Villegas | [Yes](https://github.com/kikiondo/magmalabs) | [Yes](https://github.com/kikiondo/magmalabs) 
 6 | Carlos Alfredo Diaz Estrada | [Yes](colima/CarlosAlfredoDiazEstrada) | No
 7 | Christopher Emmanuelle Velázquez Castillo | [Yes](colima/ChristopherEmmanuelleVelázquezCastillo) | [Yes](https://github.com/Christolml/goProjects/tree/master/src/gamelife)
-8 | Cristian Eduardo Ortiz Ochoa | [Yes](colima/CristianEduardoOrtizOchoa) | pending
+8 | Cristian Eduardo Ortiz Ochoa | [Yes](colima/CristianEduardoOrtizOchoa) | [Yes](https://github.com/cris9977/MAGMA) [V2](https://github.com/cris9977/MAGMADOS)
 9 | Diana Elena Pinto Apolinar | [Yes](colima/DianaElenaPintoApolinar), [extra](https://github.com/apokochito/apokochito-pagemagma) | [Yes](https://github.com/apokochito/apokochito-gameoflife)
 10 | Dzoara Samantha Bello Morales | [Yes](colima/DzoaraSamanthaBelloMorales), [extra](https://github.com/SamBelmor/website-magma-exercise) | [Yes](https://github.com/SamBelmor/GameOfLife)
 11 | Eduardo David Jiménez Cisneros | [Yes](colima/EduardoDavidJiménezCisneros) | No

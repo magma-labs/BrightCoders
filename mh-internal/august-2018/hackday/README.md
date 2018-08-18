@@ -53,7 +53,7 @@ Num | Name | Code in the Dark | Game of Life
 31 | NERY ALEJANDRO DENIZ GALVEZ | No | No
 32 | Noel Gabriel Camacho Cardenas | [Yes](colima/NoelGabrielCamachoCardenas) | [Yes](https://github.com/ncamacho0/juegoDeLaVida)
 33 | Noelia Figueroa López | No | No
-34 | Pablo Eustacio Ramirez Trujillo | [Yes](colima/PabloEustacioRamirezTrujillo) | No | [Late](https://github.com/Tachoramirez/GameOfLife)
+34 | Pablo Eustacio Ramirez Trujillo | [Yes](colima/PabloEustacioRamirezTrujillo) | No |  [Late](https://github.com/Tachoramirez/GameOfLife)
 35 | Ricardo Rafael Villagrana Larios | [Yes](colima/RicardoRafaelVillagranaLarios) | [Yes](https://github.com/ricvillagrana/game-of-life)
 36 | Williams Emmanuel Estrada Rodriguez | [Yes](colima/WilliamsEmmanuelEstradaRodriguez) |[Yes](https://github.com/WR-96/game-of-life)
 

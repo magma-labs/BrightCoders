@@ -2,6 +2,8 @@
 
 ![MagmaHackers Logo](../../imgs/mh-logo.png)
 
+
+
 ## Calendar
 
  Date| Event 
@@ -10,3 +12,4 @@
 23rd Jun - 12th Aug | [Selection Process](selection-process/README.md)
 
 
+![Student test](../imgs-students/yesica.jpg)

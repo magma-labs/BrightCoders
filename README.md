@@ -1,9 +1,21 @@
 ![MagmaHackers Logo](imgs/logo-bc.png)
 
-# _The top-talent development program crafted by MagmaLabs_
+#BrightCoders for a brighter future!
+
+## Desarrollando e impulsando talento jóven
 
 
-## _Developing and promoting Mexican talent_
+## Proyectos
+
+Num | Nombre | Tecnología | Inicio| Fin
+----- | ---- | ---- | ---- | ----
+1 | Donadores Compulsivos | Ruby on Rails | 12/Mayo/2019 | En proceso  
+2 | Donadores Compulsivos | React Native | 12/Mayo/2019 | En pausa (17/Abril/2020) 
+3 | Untitled |Shopify | 20/Abril/2020 | En proceso | 
+4 | Tribo | React Native | 27/Abril/2020 | En proceso | 
+
+
+## Equipos
 
 MagmaHackers is an intensive mentoring program designed to train talented software developers who adopt  best programming practices, working with agile methodologies,  having team work experience, developing projects in real environments, and who are passionate and contribute to the community.
 

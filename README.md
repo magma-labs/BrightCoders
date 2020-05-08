@@ -1,6 +1,6 @@
 ![MagmaHackers Logo](imgs/logo-bc.png)
 
-#BrightCoders for a brighter future!
+# BrightCoders for a brighter future!
 
 ## Desarrollando e impulsando talento jóven
 

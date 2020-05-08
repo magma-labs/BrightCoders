@@ -1,5 +1,4 @@
-# MagmaHackers
-![MagmaHackers Logo](imgs/mh-logo.png)
+![MagmaHackers Logo](imgs/logo-bc.png)
 
 # _The top-talent development program crafted by MagmaLabs_
 

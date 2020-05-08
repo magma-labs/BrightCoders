@@ -22,3 +22,5 @@ Num | Nombre
 2 | React Native
 3 | Shopify
 4 | UI/UX
+
+## Recursos

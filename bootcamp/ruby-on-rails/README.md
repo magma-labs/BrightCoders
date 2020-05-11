@@ -4,7 +4,7 @@
 ## Programa
 
 ## Bootcamps
-  _    |    _   | BC-ENE-20 |       | BC-MAY-20 |      | Actividades 
+  _    |      | BC-ENE-20 |       | BC-MAY-20 |      | Actividades 
 ----- | ----   | ----       | ---- | ----      | ---- | ---- 
 Num   | Sprint | Inicio   |       | BC-MAY-20 |      | Actividades 
 1 | [Ruby on Rails](https://github.com/magma-labs/BrightCoders/tree/master/bootcamp/ruby-on-rails)

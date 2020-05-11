@@ -3,38 +3,7 @@
 
 ## Programa
 
-## Bootcamps
-_      | BC-ENE-20  | _     | BC-MAY-20 | _    | _  
-----   | ----       | ----  | ----      | ---- | ---- 
-Sprint | Inicio     | Fin   | Inicio    | Fin  | Actividades 
-Sprint | Inicio     | Fin   | Inicio    | Fin  | Actividades 
+GENERACIÓN | INICIO | FIN
+---        | ---    | --- 
+BC-MAY-20  | 18/MAY | 20/MAY
 
-
-1 | [Ruby on Rails](https://github.com/magma-labs/BrightCoders/tree/master/bootcamp/ruby-on-rails)
-2 | React Native
-3 | Shopify
-4 | UI/UX
-
-<table style="width:100%">
-      
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-    <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>

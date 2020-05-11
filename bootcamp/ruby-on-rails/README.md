@@ -33,6 +33,6 @@ BC-MAY-20  | Introducción a ruby on rails | 4 Semanas | 29/JUN | 24/JUL
 
 ## Integrantes
 
-NUM | TIPO | GENERACIÓN | EQUIPO | NOMBRE
---- | ---  | --- | ---| ---  
+NUM | TIPO | GENERACIÓN | TURNO | EQUIPO | NOMBRE
+--- | ---  | --- | ---| --- | --
 

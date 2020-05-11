@@ -13,7 +13,13 @@ Num   | Sprint | BC-ENE-20 |       | BC-MAY-20 |      | Actividades
 4 | UI/UX
 
 <table style="width:100%">
+      
   <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+    <tr>
     <th>Firstname</th>
     <th>Lastname</th>
     <th>Age</th>

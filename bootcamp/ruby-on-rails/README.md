@@ -4,7 +4,7 @@
 ## Programa
 
 ## Bootcamps
-  _   |       | BC-ENE-20  |       | BC-MAY-20  |      |  
+_     | _      | BC-ENE-20  | _     | BC-MAY-20 | _    | _  
 ----- | ----   | ----       | ----  | ----      | ---- | ---- 
 Num   | Sprint | Inicio     | Fin   | Inicio    | Fin  | Actividades 
 

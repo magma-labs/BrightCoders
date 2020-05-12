@@ -1,4 +1,4 @@
-![MagmaHackers Logo](../../imgs/logo-bc.png)
+![BrightCoders Logo](../../imgs/logo-bc.png)
 # BOOTCAMP: Ruby on Rails
 
 El objetivo de este bootcamp es familiarizarte con nuestra forma de trabajo y con las tecnologías y herramientas conlas que estarás programando y está organizado en los siguientes 3 módulos:
@@ -27,7 +27,7 @@ Los módulos deben realizarse en el orden y las fechas que se indican. Para cono
 
 GENERACIÓN | MÓDULO | DURACIÓN | INICIO | FIN
 ---        | ---    | ---  | --- | ---
-BC-MAY-20  | Diseño web | 2 Semanas | 18/MAY | 29/MAY
+BC-MAY-20  | [Diseño web](https://github.com/magma-labs/BrightCoders/tree/master/bootcamp/ruby-on-rails/web-design) | 2 Semanas | 18/MAY | 29/MAY
 BC-MAY-20  | Introducción a ruby | 4 Semanas  | 01/JUN | 26/JUN
 BC-MAY-20  | Introducción a ruby on rails | 4 Semanas | 29/JUN | 24/JUL
 

@@ -23,4 +23,11 @@ Num | Nombre
 3 | Shopify
 4 | UI/UX
 
-## Recursos
+## Programas
+
+Num | Nombre 
+----- | ---- 
+1 | [Ruby on Rails Web Developer](https://drive.google.com/open?id=1RzaggSjFokdYgWy77cKZaPYs8EGkAQAS)
+2 | [React Native Mobile Developer](https://drive.google.com/open?id=1kpPTLsBV88ha-yTGzWX2Bj1Pj233ICLI)
+3 | Shopify Storefront Developer
+4 | UI/UX Designer

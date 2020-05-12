@@ -13,13 +13,13 @@ Abajo el la sección de programa encontrarás información más detallada sobre 
 
 Antes de iniciar es importante que te familiarices con nuestra forma de trabajar y aprender, para esto deberás dedicar tiempo durante la primer semana para leer los siguientes materiales. No es necesario que los leas todos de una vez, pero mientras más pronto los leas es mejor.
 
-- ¿Quienes somos?
-- El perfil del BrightCoder
-- Estructura de nuestros programas
-- Mentorías
-- La comunicación
-- El trabajo remoto
-- Evaluaciones
+- [¿Quienes somos?](https://drive.google.com/open?id=1vr-GDYcB-qjci7Oq-KI6VWHToroXs4L1874NcYBNF8g)
+- [El perfil del BrightCoder](https://drive.google.com/open?id=1C5Gut5UMXexDBXWYGc6TlWUMZHPUaQV7DJ7xRoWx4ew)
+- [Estructura de nuestros programas](https://docs.google.com/presentation/d/14M-O8sZ_0YE-0ZRxxDCocnC29GLsknFa1jBjLDxE5VM/edit?usp=sharing)
+- [Mentorías](https://docs.google.com/presentation/d/1ZwDieVoIh-JcfbSZvytfeY0agqJ8PEAhabMIdKXqN-I/edit?usp=sharing)
+- [La comunicación](https://docs.google.com/presentation/d/1_K6WIJIdVWzQ7-NeN-Zz8_3bxrdccsdJJJXZWS-bGNE/edit?usp=sharing)
+- [El trabajo remoto](https://docs.google.com/presentation/d/1RaC5KWMHg084a_8Rt2EGUGpavQIPVHXqjxJDCVLgXUI/edit?usp=sharing)
+- [Evaluaciones]()
 
 ## Programa
 

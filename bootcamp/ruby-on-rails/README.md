@@ -25,14 +25,18 @@ Antes de iniciar es importante que te familiarices con nuestra forma de trabajar
 
 Los módulos deben realizarse en el orden y las fechas que se indican. Para conocer sobre los detalles haz click sobre el módulo que corresponda.
 
-GENERACIÓN | MÓDULO | DURACIÓN | INICIO | FIN
----        | ---    | ---  | --- | ---
-BC-MAY-20  | [Diseño web](https://github.com/magma-labs/BrightCoders/tree/master/bootcamp/ruby-on-rails/web-design) | 2 Semanas | 18/MAY | 29/MAY
-BC-MAY-20  | Introducción a ruby | 4 Semanas  | 01/JUN | 26/JUN
-BC-MAY-20  | Introducción a ruby on rails | 4 Semanas | 29/JUN | 24/JUL
+### GENERACIÓN BC-MAY-20
+
+MÓDULO | DURACIÓN | INICIO | FIN
+---    | ---  | --- | ---
+[Diseño web](https://github.com/magma-labs/BrightCoders/tree/master/bootcamp/ruby-on-rails/web-design) | 2 Semanas | 18/MAY | 29/MAY
+Introducción a ruby | 4 Semanas  | 01/JUN | 26/JUN
+Introducción a ruby on rails | 4 Semanas | 29/JUN | 24/JUL
 
 ## Integrantes
 
-NUM | TIPO | GENERACIÓN | TURNO | EQUIPO | NOMBRE
---- | ---  | --- | ---| --- | --
+### GENERACIÓN BC-MAY-20
+
+NUM | TIPO | TURNO | EQUIPO | NOMBRE
+--- | ---  | ---| --- | --
 

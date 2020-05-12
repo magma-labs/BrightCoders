@@ -5,7 +5,7 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
 
 ## Instrucciones
 
-- En el siguiente enlace enlace obtendrás acceso al repositorio en donde se describe en detalle en qué consiste el reto. Además de la descripción del proyecto encontrarás un listado de recursos que te servirán para comprender mejor los temas que necesitas para completar este reto.
+- En el siguiente enlace obtendrás acceso al repositorio en donde se describe en detalle en qué consiste el reto. Además de la descripción del proyecto encontrarás un listado de recursos que te servirán para comprender mejor los temas que necesitas para completar este reto.
   - [Generación BC-MAY-20](https://classroom.github.com/a/i0fBSK7G)
 - Deberás mantener actualizado tu repositorio de Github para que los mentores puedan ayudarte a resolver dudas o ver tu progreso.
 - El proyecto es individual, pero esto no quiere decir que estás solo, puedes solicitar ayuda o preguntar a otros Brightcoders o a tus mentores.

@@ -40,36 +40,36 @@ Introducción a ruby on rails | 4 Semanas | 29/JUN | 24/JUL
 
 NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
- 01 | M |  A | Anny Marleni Campos Castillo
+ 01 | M |  ROR-A | Anny Marleni Campos Castillo
  
 ### GENERACIÓN BC-MAY-20
 
 NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
- 01 | M |  B | Anthony Tonatihu Rosales Ceja
- 02 | M | B |  Mario Andrés Pacheco Mendez
- 03 | V | C | Diego Aaron Figueroa Campos
- 04 | V |  C |Jorge Alonso Garcia Vega
- 05 | V |  C |José Manuel Jacobo Urzúa
- 06 | V |  C |Andrea Silva Machado
- 07 | V |  C |Ana Laura Arreola Hernández
- 08 | V |  C |Paola Lisset Santollo Vargas
- 09 | V | C |Alejandro Cabrera Moncada
- 10 | V | C |Raul Alejandro Almanza Serrano
+ 01 | M |  ROR-B | Anthony Tonatihu Rosales Ceja
+ 02 | M | ROR-B |  Mario Andrés Pacheco Mendez
+ 03 | V | ROR-C | Diego Aaron Figueroa Campos
+ 04 | V |  ROR-C |Jorge Alonso Garcia Vega
+ 05 | V |  ROR-C |José Manuel Jacobo Urzúa
+ 06 | V |  ROR-C |Andrea Silva Machado
+ 07 | V |  ROR-C |Ana Laura Arreola Hernández
+ 08 | V |  ROR-C |Paola Lisset Santollo Vargas
+ 09 | V | ROR-C |Alejandro Cabrera Moncada
+ 10 | V | ROR-C |Raul Alejandro Almanza Serrano
   
   ## Mentores
   
 NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
-  01 | M |  A, B | Carlos Daniel Hernández Rodríguez
-  02 | M | A, B | Esmeralda Elizabeth Santoyo Morales
-  03 | M |  C | Jorge Alejandro Vargas Martínez 
-  04 | M |  C | José Jaime Ortiz Diaz
-  05 | - | TODOS | Juan Carlos López Lupercio
-  06 | - | TODOS | Omar de Jesús Vázquez Acevedo
-  07 | - | TODOS | Daniel Orlando Haro Lozano
-  08 | - | TODOS | Eduardo Garcia Hernández
-  09 | - | TODOS | Kevin Dilan Perez Maulión
-  10 | - | TODOS | Jaime Loyola Rangel
+  01 | M |  ROR-A, ROR-B | Carlos Daniel Hernández Rodríguez
+  02 | M |  ROR-A, ROR-B | Esmeralda Elizabeth Santoyo Morales
+  03 | M |  ROR-C | Jorge Alejandro Vargas Martínez 
+  04 | M |  ROR-C | José Jaime Ortiz Diaz
+  05 | * | TODOS | Juan Carlos López Lupercio
+  06 | * | TODOS | Omar de Jesús Vázquez Acevedo
+  07 | * | TODOS | Daniel Orlando Haro Lozano
+  08 | * | TODOS | Eduardo Garcia Hernández
+  09 | * | TODOS | Kevin Dilan Perez Maulión
+  10 | * | TODOS | Jaime Loyola Rangel
   
   

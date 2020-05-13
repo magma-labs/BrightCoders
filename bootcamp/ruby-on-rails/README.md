@@ -72,4 +72,7 @@ NUM |  TURNO | GRUPO | NOMBRE
   09 | * | TODOS | Kevin Dilan Perez Maulión
   10 | * | TODOS | Jaime Loyola Rangel
   
+  ## Navegación
+  - [Inicio](https://github.com/magma-labs/BrightCoders)
+  
   

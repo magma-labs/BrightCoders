@@ -34,10 +34,42 @@ MÓDULO | DURACIÓN | INICIO | FIN
 Introducción a ruby | 4 Semanas  | 01/JUN | 26/JUN
 Introducción a ruby on rails | 4 Semanas | 29/JUN | 24/JUL
 
-## Integrantes
+## BrightCoders
 
+### GENERACIÓN BC-FEB-20
+
+NUM |  TURNO | EQUIPO | NOMBRE
+--- | ---| --- | --
+ 01 | M | Equipo A | Anny Marleni Campos Castillo
+ 
 ### GENERACIÓN BC-MAY-20
 
-NUM | TIPO | TURNO | EQUIPO | NOMBRE
---- | ---  | ---| --- | --
-
+NUM |  TURNO | EQUIPO | NOMBRE
+--- | ---| --- | --
+ 01 | M | Equipo B | Anthony Tonatihu Rosales Ceja
+ 02 | M | Equipo B |  Mario Andrés Pacheco Mendez
+ 03 | V | Equipo C | Diego Aaron Figueroa Campos
+ 04 | V | Equipo C |Jorge Alonso Garcia Vega
+ 05 | V | Equipo C |José Manuel Jacobo Urzúa
+ 06 | V | Equipo C |Andrea Silva Machado
+ 07 | V | Equipo D |Ana Laura Arreola Hernández
+ 08 | V | Equipo D |Paola Lisset Santollo Vargas
+ 09 | V | Equipo D |Alejandro Cabrera Moncada
+ 10 | V | Equipo D |Raul Alejandro Almanza Serrano
+  
+  ## Mentores
+  
+NUM |  TURNO | EQUIPO | NOMBRE
+--- | ---| --- | --
+  01 | M | Equipo A, B | Carlos Daniel Hernández Rodríguez
+  02 | M | Equipo A, B | Esmeralda Elizabeth Santoyo Morales
+  03 | M | Equipo C, D | Jorge Alejandro Vargas Martínez 
+  04 | M | Equipo C, D | José Jaime Ortiz Diaz
+  05 | - | TODOS | Juan Carlos López Lupercio
+  06 | - | TODOS | Omar de Jesús Vázquez Acevedo
+  06 | - | TODOS | Daniel Orlando Haro Lozano
+  06 | - | TODOS | Eduardo Garcia Hernández
+  06 | - | TODOS | Kevin Dilan Perez Maulión
+  06 | - | TODOS | Jaime Loyola Rangel
+  
+  

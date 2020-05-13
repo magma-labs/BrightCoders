@@ -21,5 +21,15 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
 
 ### GENERACIÓN BC-MAY-20
 
-NUM | TIPO | TURNO | EQUIPO | NOMBRE  
---- | ---  | ---| --- | --
+NUM |  TURNO | GRUPO | NOMBRE
+--- | ---| --- | --
+ 01 | M |  B | Anthony Tonatihu Rosales Ceja
+ 02 | M | B |  Mario Andrés Pacheco Mendez
+ 03 | V | C | Diego Aaron Figueroa Campos
+ 04 | V |  C |Jorge Alonso Garcia Vega
+ 05 | V |  C |José Manuel Jacobo Urzúa
+ 06 | V |  C |Andrea Silva Machado
+ 07 | V |  C |Ana Laura Arreola Hernández
+ 08 | V |  C |Paola Lisset Santollo Vargas
+ 09 | V | C |Alejandro Cabrera Moncada
+ 10 | V | C |Raul Alejandro Almanza Serrano

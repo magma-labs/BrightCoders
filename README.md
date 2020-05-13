@@ -19,7 +19,7 @@ Num | Nombre | Tecnología | Inicio| Fin
 Num | Nombre 
 ----- | ---- 
 1 | [Ruby on Rails](https://github.com/magma-labs/BrightCoders/tree/master/bootcamp/ruby-on-rails)
-2 | React Native
+2 | [React Native](https://github.com/magma-labs/BrightCoders/tree/master/bootcamp/react-native)
 3 | Shopify
 4 | UI/UX
 

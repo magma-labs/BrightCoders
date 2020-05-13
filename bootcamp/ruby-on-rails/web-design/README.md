@@ -21,3 +21,8 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
 - Presentar tu standup
 - Avanzar en el reto
 - Publicar avances en tu repositorio de Github
+
+
+ ## Navegación
+  - [Inicio](https://github.com/magma-labs/BrightCoders)
+  - [Bootcamp Ruby on Rails](https://github.com/magma-labs/BrightCoders/tree/master/bootcamp/ruby-on-rails)

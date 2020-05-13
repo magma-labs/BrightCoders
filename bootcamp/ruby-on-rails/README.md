@@ -63,14 +63,16 @@ NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
   01 | M |  ROR-A, ROR-B | Carlos Daniel Hernández Rodríguez
   02 | M |  ROR-A, ROR-B | Esmeralda Elizabeth Santoyo Morales
-  03 | M |  ROR-C | Jorge Alejandro Vargas Martínez 
-  04 | M |  ROR-C | José Jaime Ortiz Diaz
-  05 | * | TODOS | Juan Carlos López Lupercio
-  06 | * | TODOS | Omar de Jesús Vázquez Acevedo
-  07 | * | TODOS | Daniel Orlando Haro Lozano
-  08 | * | TODOS | Eduardo Garcia Hernández
-  09 | * | TODOS | Kevin Dilan Perez Maulión
-  10 | * | TODOS | Jaime Loyola Rangel
+  03 | M |  ROR-A, ROR-B | Alvaro Padilla Mendoza
+  04 | M |  ROR-A, ROR-B | José Reynaldo Jacobo Urzua
+  05 | M |  ROR-C | Jorge Alejandro Vargas Martínez 
+  06 | M |  ROR-C | José Jaime Ortiz Diaz
+  07 | * | TODOS | Juan Carlos López Lupercio
+  08 | * | TODOS | Omar de Jesús Vázquez Acevedo
+  09 | * | TODOS | Daniel Orlando Haro Lozano
+  10 | * | TODOS | Eduardo Garcia Hernández
+  11 | * | TODOS | Kevin Dilan Perez Maulión
+  12 | * | TODOS | Jaime Loyola Rangel
   
   ## Navegación
   - [Inicio](https://github.com/magma-labs/BrightCoders)

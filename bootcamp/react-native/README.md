@@ -55,3 +55,5 @@ NUM |  TURNO | GRUPO | NOMBRE
   03 | * | RN-A | Luis Armando Duran Vega
   04 | * | RN-A | Fernando Amezcua Alcantar
 
+ ## Navegación
+  - [Inicio](https://github.com/magma-labs/BrightCoders)

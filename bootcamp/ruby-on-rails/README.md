@@ -65,8 +65,8 @@ NUM |  TURNO | GRUPO | NOMBRE
   02 | M |  ROR-A, ROR-B | Esmeralda Elizabeth Santoyo Morales
   03 | M |  ROR-A, ROR-B | Alvaro Padilla Mendoza
   04 | M |  ROR-A, ROR-B | José Reynaldo Jacobo Urzua
-  05 | M |  ROR-C | Jorge Alejandro Vargas Martínez 
-  06 | M |  ROR-C | José Jaime Ortiz Diaz
+  05 | V |  ROR-C | Jorge Alejandro Vargas Martínez 
+  06 | V |  ROR-C | José Jaime Ortiz Diaz
   07 | * | TODOS | Juan Carlos López Lupercio
   08 | * | TODOS | Omar de Jesús Vázquez Acevedo
   09 | * | TODOS | Daniel Orlando Haro Lozano

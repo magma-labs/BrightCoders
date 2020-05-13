@@ -13,7 +13,9 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
 
 ## Acceso al Reto
 
- - [Generación BC-MAY-20](https://classroom.github.com/a/i0fBSK7G)
+ - Generación BC-MAY-20
+  - [Ruby on Rails](https://classroom.github.com/a/i0fBSK7G)
+  - [React Native](https://classroom.github.com/a/i0fBSK7G)
  
 ## Actividades diarias
 - Presentar tu standup

@@ -52,10 +52,10 @@ NUM |  TURNO | EQUIPO | NOMBRE
  04 | V | Equipo C |Jorge Alonso Garcia Vega
  05 | V | Equipo C |José Manuel Jacobo Urzúa
  06 | V | Equipo C |Andrea Silva Machado
- 07 | V | Equipo D |Ana Laura Arreola Hernández
- 08 | V | Equipo D |Paola Lisset Santollo Vargas
- 09 | V | Equipo D |Alejandro Cabrera Moncada
- 10 | V | Equipo D |Raul Alejandro Almanza Serrano
+ 07 | V | Equipo C |Ana Laura Arreola Hernández
+ 08 | V | Equipo C |Paola Lisset Santollo Vargas
+ 09 | V | Equipo C |Alejandro Cabrera Moncada
+ 10 | V | Equipo C |Raul Alejandro Almanza Serrano
   
   ## Mentores
   
@@ -63,8 +63,8 @@ NUM |  TURNO | EQUIPO | NOMBRE
 --- | ---| --- | --
   01 | M | Equipo A, B | Carlos Daniel Hernández Rodríguez
   02 | M | Equipo A, B | Esmeralda Elizabeth Santoyo Morales
-  03 | M | Equipo C, D | Jorge Alejandro Vargas Martínez 
-  04 | M | Equipo C, D | José Jaime Ortiz Diaz
+  03 | M | Equipo C | Jorge Alejandro Vargas Martínez 
+  04 | M | Equipo C | José Jaime Ortiz Diaz
   05 | - | TODOS | Juan Carlos López Lupercio
   06 | - | TODOS | Omar de Jesús Vázquez Acevedo
   07 | - | TODOS | Daniel Orlando Haro Lozano

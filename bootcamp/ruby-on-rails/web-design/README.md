@@ -12,6 +12,11 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
 - Tienes 2 semanas para completar el reto.
 - Probablemente in iniciarás estudiando algunos temas, lo cual está bien, pero toma en cuenta que el tiempo es limitado por lo que lo recomendable es hacer una combinación entre estudiar los temas e ir avanzando en tu proyecto, y lo más importante es que cuando te atores en algo o tengas dudas, no dejes pasar demasiado tiempo para preguntar o pedir ayuda.
 
+## Actividades diarias
+- Presentar tu standup
+- Avanzar en el reto
+- Publicar avances en tu repositorio de Github
+
 ## REPOSITORIOS
 
 ### GENERACIÓN BC-MAY-20

@@ -38,25 +38,20 @@ Introducción a react native | 8 Semanas  | 01/JUN | 24/JUL
 
 NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
- 01 | M |  B | Brian Eduardo Palomar Valdovines
- 02 | M | B |  José Carlos De Jesús Romero Alonso
- 03 | V | C | Luis Oswaldo Tovar Olivera
- 04 | V |  C | Owen Omar Ramirez Lopez
- 05 | V |  C | Gibran Amadeus Rodriguez Torres
- 06 | V |  C | Manuel Hernández Gutiérrez
- 07 | V |  C | Eduardo Juárez Sánchez
+ 01 | V |  RN-A | Brian Eduardo Palomar Valdovines
+ 02 | V | RN-A |  José Carlos De Jesús Romero Alonso
+ 03 | V | RN-A | Luis Oswaldo Tovar Olivera
+ 04 | V |  RN-A | Owen Omar Ramirez Lopez
+ 05 | V |  RN-A | Gibran Amadeus Rodriguez Torres
+ 06 | V |  RN-A | Manuel Hernández Gutiérrez
+ 07 | V |  RN-A | Eduardo Juárez Sánchez
   
   ## Mentores
   
 NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
-  01 | M |  A, B | Carlos Daniel Hernández Rodríguez
-  02 | M | A, B | Esmeralda Elizabeth Santoyo Morales
-  03 | M |  C | Jorge Alejandro Vargas Martínez 
-  04 | M |  C | José Jaime Ortiz Diaz
-  05 | - | TODOS | Juan Carlos López Lupercio
-  06 | - | TODOS | Omar de Jesús Vázquez Acevedo
-  07 | - | TODOS | Daniel Orlando Haro Lozano
-  08 | - | TODOS | Eduardo Garcia Hernández
-  09 | - | TODOS | Kevin Dilan Perez Maulión
-  10 | - | TODOS | Jaime Loyola Rangel
+  01 | V | RN-A | Mariana Guadalupe Maldonado Enríquez
+  02 | V | RN-A | José Luis Peregrina Rosales
+  03 | * | RN-A | Luis Armando Duran Vega
+  04 | * | RN-A | Fernando Amezcua Alcantar
+

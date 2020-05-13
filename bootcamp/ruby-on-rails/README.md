@@ -38,33 +38,33 @@ Introducción a ruby on rails | 4 Semanas | 29/JUN | 24/JUL
 
 ### GENERACIÓN BC-FEB-20
 
-NUM |  TURNO | EQUIPO | NOMBRE
+NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
- 01 | M | Equipo A | Anny Marleni Campos Castillo
+ 01 | M |  A | Anny Marleni Campos Castillo
  
 ### GENERACIÓN BC-MAY-20
 
-NUM |  TURNO | EQUIPO | NOMBRE
+NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
- 01 | M | Equipo B | Anthony Tonatihu Rosales Ceja
- 02 | M | Equipo B |  Mario Andrés Pacheco Mendez
- 03 | V | Equipo C | Diego Aaron Figueroa Campos
- 04 | V | Equipo C |Jorge Alonso Garcia Vega
- 05 | V | Equipo C |José Manuel Jacobo Urzúa
- 06 | V | Equipo C |Andrea Silva Machado
- 07 | V | Equipo C |Ana Laura Arreola Hernández
- 08 | V | Equipo C |Paola Lisset Santollo Vargas
- 09 | V | Equipo C |Alejandro Cabrera Moncada
- 10 | V | Equipo C |Raul Alejandro Almanza Serrano
+ 01 | M |  B | Anthony Tonatihu Rosales Ceja
+ 02 | M | B |  Mario Andrés Pacheco Mendez
+ 03 | V | C | Diego Aaron Figueroa Campos
+ 04 | V |  C |Jorge Alonso Garcia Vega
+ 05 | V |  C |José Manuel Jacobo Urzúa
+ 06 | V |  C |Andrea Silva Machado
+ 07 | V |  C |Ana Laura Arreola Hernández
+ 08 | V |  C |Paola Lisset Santollo Vargas
+ 09 | V | C |Alejandro Cabrera Moncada
+ 10 | V | C |Raul Alejandro Almanza Serrano
   
   ## Mentores
   
-NUM |  TURNO | EQUIPO | NOMBRE
+NUM |  TURNO | GRUPO | NOMBRE
 --- | ---| --- | --
-  01 | M | Equipo A, B | Carlos Daniel Hernández Rodríguez
-  02 | M | Equipo A, B | Esmeralda Elizabeth Santoyo Morales
-  03 | M | Equipo C | Jorge Alejandro Vargas Martínez 
-  04 | M | Equipo C | José Jaime Ortiz Diaz
+  01 | M |  A, B | Carlos Daniel Hernández Rodríguez
+  02 | M | A, B | Esmeralda Elizabeth Santoyo Morales
+  03 | M |  C | Jorge Alejandro Vargas Martínez 
+  04 | M |  C | José Jaime Ortiz Diaz
   05 | - | TODOS | Juan Carlos López Lupercio
   06 | - | TODOS | Omar de Jesús Vázquez Acevedo
   07 | - | TODOS | Daniel Orlando Haro Lozano

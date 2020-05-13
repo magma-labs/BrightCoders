@@ -67,9 +67,9 @@ NUM |  TURNO | EQUIPO | NOMBRE
   04 | M | Equipo C, D | José Jaime Ortiz Diaz
   05 | - | TODOS | Juan Carlos López Lupercio
   06 | - | TODOS | Omar de Jesús Vázquez Acevedo
-  06 | - | TODOS | Daniel Orlando Haro Lozano
-  06 | - | TODOS | Eduardo Garcia Hernández
-  06 | - | TODOS | Kevin Dilan Perez Maulión
-  06 | - | TODOS | Jaime Loyola Rangel
+  07 | - | TODOS | Daniel Orlando Haro Lozano
+  08 | - | TODOS | Eduardo Garcia Hernández
+  09 | - | TODOS | Kevin Dilan Perez Maulión
+  10 | - | TODOS | Jaime Loyola Rangel
   
   

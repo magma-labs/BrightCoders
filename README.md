@@ -2,8 +2,7 @@
 
 # BrightCoders for a brighter future!
 
-## Desarrollando e impulsando talento jóven
-
+- [Nosotros]U()
 
 ## Proyectos
 

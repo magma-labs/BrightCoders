@@ -14,7 +14,7 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
 ## Acceso al Reto
 
 ### Generación BC-MAY-20
-  - [Ruby on Rails](https://classroom.github.com/classrooms/52927924-bc-may-20-ruby-on-rails-bootcamp)
+  - [Ruby on Rails](https://classroom.github.com/a/6-a1Q_Tu)
   - [React Native](https://classroom.github.com/a/UG5i2hHF)
  
 ## Actividades diarias

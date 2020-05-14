@@ -15,13 +15,12 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
 
 ### Generación BC-MAY-20
   - [Ruby on Rails](https://classroom.github.com/classrooms/52927924-bc-may-20-ruby-on-rails-bootcamp)
-  - [React Native](https://classroom.github.com/a/DFbHdak_)
+  - [React Native](https://classroom.github.com/a/UG5i2hHF)
  
 ## Actividades diarias
 - Presentar tu standup
 - Avanzar en el reto
 - Publicar avances en tu repositorio de Github
-
 
  ## Navegación
   - [Inicio](https://github.com/magma-labs/BrightCoders)

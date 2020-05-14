@@ -1,4 +1,4 @@
-![BrightCoders Logo](../../imgs/logo-bc.png)
+![BrightCoders Logo](imgs/logo-bc.png)
 
 # Nosotros
 

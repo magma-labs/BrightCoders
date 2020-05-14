@@ -2,7 +2,7 @@
 
 # BrightCoders for a brighter future!
 
-- [Nosotros]U()
+- [Nosotros](https://github.com/magma-labs/BrightCoders/blob/master/nosotros.md)
 
 ## Proyectos
 

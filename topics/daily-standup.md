@@ -2,9 +2,9 @@
 
 # Daily Standup
 
-Todos los días a la misma hora los integrantes de caea equipo se reunen para actualizarse sobre información que es relevante para el proyecto o actividades que realizan. Cada integrante del equipo describe brevemente las actividades en las que estuvo trabajando el día anterior, las actividades en las que estará trabajando ese día y los obstaculos que tiene si es que se habn presentado.
+Todos los días a la misma hora los integrantes de cada equipo se reunen para actualizarse sobre información que es relevante para el proyecto o actividades que realizan. Cada integrante del equipo describe brevemente las actividades en las que estuvo trabajando el día anterior, las actividades en las que estará trabajando ese día y los obstaculos que tiene si es que se habn presentado.
 
-Esta reunión se realiza normalmente al inicio de la jornada de trabajo, de manera presencial, parados y tiene una duración máxima de 15 minutos. Para mantener la reunión corta, no se permiten discusiones sobre ningún tema, en caso de que alguno de los temas requiera de mayor discusión los interesados simplemente pueden acordar una reunión posterior para profundizar sobre el tema.
+Esta reunión se realiza normalmente al inicio de la jornada de trabajo, de manera presencial, parados (de ahí el nombre) y tiene una duración máxima de 15 minutos (dependiendo del tamaño del equipo). Para mantener la reunión corta, no se permiten discusiones sobre ningún tema, en caso de que alguno de los temas requiera de mayor discusión los interesados simplemente pueden acordar una reunión posterior para profundizar sobre el tema.
 
 El daily standup no debe confundirse con un reporte que se entrega al responsable del programa BrightCoders o a los mentores o un simple reporte de estado, sino una ceremonia para revisar avances, sincronizar actividades y crear un plan para las siguientes 24 horas.
 

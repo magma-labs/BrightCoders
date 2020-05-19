@@ -24,6 +24,8 @@ Aunque en la propuesta original el Daily Standup se realiza de manera presencial
 - No se trata solo de publicar tu standup sino también de leer el standup de los demás para mantenerse actualizado
 - Action items! Si ves que alguno de tus commpañeros está atorado en algo y lo quieres ayudar, ponte de acuerdo con el. O por el contrario, si estás atorado en alguien y crees que alguien de ellos podría ayudarte, solicita su ayuda.
 
+**IMPORTANTE** Procura que tu reporte incluya información suficiente para que los demás integrantes puedan entender.
+
 ## Enlaces
 
 A continuación te presento algunos enlaces en donde puedes encontrar más información sobre esta ceremonia

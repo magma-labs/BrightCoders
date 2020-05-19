@@ -10,9 +10,20 @@ El daily standup no debe confundirse con un reporte que se entrega al responsabl
 
 ## BrightCoders Daily Standup
 
-Aunque en la propuesta original el Daily Standup se realiza de manera presencial, diferentes equipos han adaptado esta práctica. Este es el caso nuesto, debido a que todos los integrantes participamos de manera remota, utilizamos Slack para realizar nuestro Daily Stand up. A continuación te describo los detalles de la forma en la que estarás participando.ç
+Aunque en la propuesta original el Daily Standup se realiza de manera presencial, diferentes equipos han adaptado esta práctica. Este es el caso nuesto, debido a que todos los integrantes participamos de manera remota, utilizamos Slack para realizar nuestro Daily Stand up. A continuación te describo los detalles de la forma en la que estarás participando.
 
 - En cada canal está configurado un bot para que de manera automática solicite publiques tu standup
 - Los que inician en el turno de la mañana lo hacen a las 10:00 y los del turno de la tarde a las 15:00
 - Cada integrante deberá responder las siguientes 3 preguntas:
-  - 
+  - What did I do yesterday?
+  - What are you doing today?
+  - What is getting on my way or keeping me from doing my job?
+- En inglés, sí en inglés. Utilizamos el standup en inglés para practicarlo.
+- Todos deben publicar de manera puntual su standup en la hora que corresponde
+- No se trata solo de ayudar sino también de leer el standup de los demás para mantenerse actualizado
+- Action items! Si ves que alguno de tus commpañeros está atorado en algo y lo quieres ayudar, ponte de acuerdo con el. O por el contrario, si estás atorado en alguien y crees que alguien de ellos podría ayudarte, solicita su ayuda.
+
+## Enlaces
+
+A continuación
+

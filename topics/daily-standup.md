@@ -6,7 +6,7 @@ Todos los días a la misma hora los integrantes de caea equipo se reunen para ac
 
 Esta reunión se realiza normalmente al inicio de la jornada de trabajo, de manera presencial, parados y tiene una duración máxima de 15 minutos. Para mantener la reunión corta, no se permiten discusiones sobre ningún tema, en caso de que alguno de los temas requiera de mayor discusión los interesados simplemente pueden acordar una reunión posterior para profundizar sobre el tema.
 
-El daily standup no debe confundirse con un reporte que se entrega al responsable del programa BrightCoders o a los mentores, es una actualización del estado para que los integrantes se mantengan enterados, actualizados y tomen acciones necesarias para que el progreso o avance del proyecto o actividades no se vea afecado.
+El daily standup no debe confundirse con un reporte que se entrega al responsable del programa BrightCoders o a los mentores o un simple reporte de estado, sino una ceremonia para revisar avances, sincronizar actividades y crear un plan para las siguientes 24 horas.
 
 ## BrightCoders Daily Standup
 
@@ -20,10 +20,15 @@ Aunque en la propuesta original el Daily Standup se realiza de manera presencial
   - What is getting on my way or keeping me from doing my job?
 - En inglés, sí en inglés. Utilizamos el standup en inglés para practicarlo.
 - Todos deben publicar de manera puntual su standup en la hora que corresponde
-- No se trata solo de ayudar sino también de leer el standup de los demás para mantenerse actualizado
+- Debes respinder en un HILO a la pregunta del reminder bot
+- No se trata solo de publicar tu standup sino también de leer el standup de los demás para mantenerse actualizado
 - Action items! Si ves que alguno de tus commpañeros está atorado en algo y lo quieres ayudar, ponte de acuerdo con el. O por el contrario, si estás atorado en alguien y crees que alguien de ellos podría ayudarte, solicita su ayuda.
 
 ## Enlaces
 
-A continuación
+A continuación te presento algunos enlaces en donde puedes encontrar más información sobre esta ceremonia
+
+- [Ceremonias SCRUM](https://www.atlassian.com/agile/scrum/ceremonies)
+- [Contexto en la Daily Standup](https://www.scrum.mx/informate/la-ventana-a-la-cultura-del-equipo)
+- [What is a Daily SCRUM?](https://www.scrum.org/resources/what-is-a-daily-scrum)
 

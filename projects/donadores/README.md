@@ -21,7 +21,7 @@ Descontinuado
 ### BrightCoders
 
 Num | Nombre | Programa | Inicio | Fin
---- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- 
 1 | Alvaro Padilla Mendoza | Ruby on Rails | 13/Abr/2020 | 
 2 | Carlos Daniel Hernández Rodríguez | Ruby on Rails | 13/Abr/2020 | 
 3 | Esmeralda Elizabeth Santoyo Morales | Ruby on Rails | 13/Abr/2020 | 

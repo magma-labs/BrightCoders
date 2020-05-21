@@ -1,12 +1,9 @@
 ![BrightCoders Logo](../../imgs/logo-bc.png)
 
 
-- [Sobre BrightCoders](https://github.com/magma-labs/BrightCoders/blob/master/nosotros.md)
-
 # Proyecto: Donadores Compulsivos
 
-## Enlaces del proyecto
-
+- [Sobre BrightCoders](https://github.com/magma-labs/BrightCoders/blob/master/nosotros.md)
 - [Sobre Donadores Compulsivos](https://drive.google.com/open?id=1GmVehADsRfU2Pz9LVuFluN-m1xYc2iiiLuAQxKM_P3c)
 - [Carpeta google drive con materiales del proyecto](https://drive.google.com/open?id=1GmVehADsRfU2Pz9LVuFluN-m1xYc2iiiLuAQxKM_P3c)
 

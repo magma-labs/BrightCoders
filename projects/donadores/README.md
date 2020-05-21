@@ -37,13 +37,12 @@ Num | Nombre | Programa | Inicio | Fin
 ### Mentores
 
 Num | Nombre | Programa | Inicio | Fin
---- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- 
+1 | Juan Carlos López Lupercio | Ruby on Rails | | 
+2 | Omar de Jesús Vázquez Acevedo | Ruby on Rails | | 
+3 | Daniel Orlando Haro Lozano | Ruby on Rails | | 
+4 | Eduardo Garcia Hernández | Ruby on Rails | | 
+5 | Kevin Dilan Perez Maulión | Ruby on Rails | | 
+6 | Jaime Loyola Rangel | Ruby on Rails | | 
 
 
-
-Num | Nombre | Tecnología | Inicio| Fin
------ | ---- | ---- | ---- | ----
-1 | Donadores Compulsivos | Ruby on Rails | 12/Mayo/2019 | En proceso  
-2 | Donadores Compulsivos | React Native | 12/Mayo/2019 | En pausa (17/Abril/2020) 
-3 | Untitled |Shopify | 20/Abril/2020 | En proceso | 
-4 | Tribo | React Native | 27/Abril/2020 | En proceso | 

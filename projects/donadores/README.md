@@ -32,7 +32,7 @@ Num | Nombre | Programa | Inicio | Fin
 8 | José Jaime Ortiz Diaz | Ruby on Rails | 13/Abr/2020 | 
 9 | Rubí Lizet Castellanos Núñez | UI/UX | 13/Abr/2020 | 
 10 | Fernanda Lizeth Morales Torres | UI/UX |  | 
-11 | Maria Paola López Sandoval |UI/UX | 1 | 
+11 | Maria Paola López Sandoval |UI/UX |  | 
 
 ### Mentores
 

@@ -18,7 +18,29 @@ Descontinuado
 
 ## Participantes
 
-## BrightCoders
+### BrightCoders
+
+Num | Nombre | Programa | Inicio | Fin
+--- | --- | --- | --- | --- | --- 
+1 | Alvaro Padilla Mendoza | Ruby on Rails | 13/Abr/2020 | 
+2 | Carlos Daniel Hernández Rodríguez | Ruby on Rails | 13/Abr/2020 | 
+3 | Esmeralda Elizabeth Santoyo Morales | Ruby on Rails | 13/Abr/2020 | 
+4 | José Eduardo Cervantes Zepeda | Ruby on Rails | 13/Abr/2020 | 
+5 | José Reynaldo Jacobo Urzua | Ruby on Rails | 13/Abr/2020 | 
+6 | Luis Edgar Ramos de los Santos | Ruby on Rails | 13/Abr/2020 | 
+7 | Jorge Alejandro Vargas Martínez  | Ruby on Rails | 13/Abr/2020 | 
+8 | José Jaime Ortiz Diaz | Ruby on Rails | 13/Abr/2020 | 
+9 | Rubí Lizet Castellanos Núñez | UI/UX | 13/Abr/2020 | 
+10 | Fernanda Lizeth Morales Torres | UI/UX |  | 
+11 | Maria Paola López Sandoval |UI/UX | 1 | 
+
+### Mentores
+
+Num | Nombre | Programa | Inicio | Fin
+--- | --- | --- | --- | --- | --- 
+
+
+
 Num | Nombre | Tecnología | Inicio| Fin
 ----- | ---- | ---- | ---- | ----
 1 | Donadores Compulsivos | Ruby on Rails | 12/Mayo/2019 | En proceso  

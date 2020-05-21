@@ -22,7 +22,7 @@ Antes de iniciar es importante que te familiarices con nuestra forma de trabajar
 - [Evaluaciones](https://docs.google.com/presentation/d/1o3RDLf_3UIBipsApRipKpoQp6OCuRxaxRYOS4dZv8fc/edit?usp=sharing)
 - [Comunidad](https://docs.google.com/presentation/d/12gh99UKgI9d8VTvb7EIOIeBB_ysMCG-RXpovq4x7QgQ/edit?usp=sharing)
 
-## Reportes
+## Temas Relevantes
 - [Daily Standup](https://github.com/magma-labs/BrightCoders/blob/master/topics/daily-standup.md)
 
 ## Programa

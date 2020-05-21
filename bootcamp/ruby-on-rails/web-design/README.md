@@ -18,7 +18,7 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
   - [React Native](https://classroom.github.com/a/UG5i2hHF)
  
 ## Actividades diarias
-- Presentar tu standup
+- [Presentar tu standup](https://github.com/magma-labs/BrightCoders/blob/master/topics/daily-standup.md)
 - Avanzar en el reto
 - Publicar avances en tu repositorio de Github
 - Debes poner atención de cómo y cuando hacer tus commits

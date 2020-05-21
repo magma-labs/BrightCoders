@@ -22,7 +22,7 @@ El objetivo de este módulo es que te familiarices con el diseño de páginas we
 - Avanzar en el reto
 - Publicar avances en tu repositorio de Github
 - Debes poner atención de cómo y cuando hacer tus commits
-  - **MUST READ** [Como escribir commits](https://chris.beams.io/posts/git-commit/)
+  - **LEER** [Como escribir commits](https://chris.beams.io/posts/git-commit/)
 
  ## Navegación
   - [Inicio](https://github.com/magma-labs/BrightCoders)

@@ -11,7 +11,7 @@ Num | Nombre | Tecnología | Inicio| Fin
 1 | [Donadores Compulsivos](https://github.com/magma-labs/BrightCoders/tree/master/projects/donadores) | Ruby on Rails | 12/Mayo/2019 | En proceso  
 2 | Donadores Compulsivos | React Native | 12/Mayo/2019 | En pausa (17/Abril/2020) 
 3 | Untitled |Shopify | 20/Abril/2020 | En proceso | 
-4 | Tribo | React Native | 27/Abril/2020 | En proceso | 
+4 | [Tribo](https://github.com/magma-labs/BrightCoders/tree/master/projects/tribo) | React Native | 27/Abril/2020 | En proceso | 
 
 
 ## Bootcamps

@@ -14,18 +14,18 @@
 
 Num | Nombre | Programa | Inicio | Fin
 --- | --- | --- | --- | --- 
-1 | José Luis Peregrina Rosales | React Native | 13/Abr/2020 | 
-2 | Mariana Guadalupe Maldonado Enríquez | React Native | 13/Abr/2020 | 
-3 | Rubí Lizet Castellanos Núñez | UI/UX | 13/Abr/2020 | 
-4 | Fernanda Lizeth Morales Torres | UI/UX |  | 
-5 | Maria Paola López Sandoval |UI/UX |  | 
+1 | José Luis Peregrina Rosales | React Native | 27/Abril/2020| 
+2 | Mariana Guadalupe Maldonado Enríquez | React Native | 27/Abril/2020 | 
+3 | Rubí Lizet Castellanos Núñez | UI/UX | 27/Abril/2020 | 
+4 | Fernanda Lizeth Morales Torres | UI/UX | 27/Abril/2020 | 
+5 | Maria Paola López Sandoval |UI/UX |27/Abril/2020  | 
 
 ### Mentores
 
 Num | Nombre | Programa | Inicio | Fin
 --- | --- | --- | --- | --- 
-1 | Luis Armando Duran Vega| React Native | | 
-2 | Fernando Amezcua Alcantar | React Native | | 
+1 | Luis Armando Duran Vega| React Native | 27/Abril/2020 | 
+2 | Fernando Amezcua Alcantar | React Native | 27/Abril/2020 | 
 
 
 

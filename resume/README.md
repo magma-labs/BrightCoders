@@ -7,7 +7,7 @@ Antes de graduarte de nuestro programa, queremos que tengas tu propio Curriculum
 ## Instrucciones
 
 1. Para construirlo utilizaremos el formato [JSON resume](https://jsonresume.org/)
-2. [Descarga este archivo](exanple/brightcoders-cv.json) y remplaza la información de ejmplo con tus datos.
+2. [Descarga este archivo](example/brightcoders-cv.json) y remplaza la información de ejmplo con tus datos.
 3. No es necesario que incluyas información en todas las secciones, utiliza solo las que apliquen.
 4. De preferencia escribe tu CV en inglés.
 5. Compártelo que alguien que tenga buen nivel de inglés para que lo revise y te ayude a mejorarlo.

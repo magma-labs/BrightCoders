@@ -18,6 +18,8 @@ Antes de graduarte de nuestro programa, queremos que tengas tu propio Curriculum
 Estos son algunos ejempos de scorecards que otros Brightcoders escribieron.
 NO hagas una copia de ellos simplemente utilizalos para darte una idea del tipo de información que puedes incluir. Siempre hay espacio para mejorar.
 
+![MagmaHackers Logo](imgs/ejemplo1.pdf)
+
 ## Modelo Dreyfus
 
 Para indicar el tu nivel de experiencia en cada habilidad (skill) utilizaremos el modelo de Dreyfus el cual considera los siguientes niveles:
